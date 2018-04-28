@@ -1,0 +1,7923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC1",
+        "Name": "678A Woodlands Avenue 6\r\r#01-02/03/04 Admiralty Place\r\rSingapore 731678",
+        "Postal Code": 731678,
+        "Chain": "1",
+        "condoby100 _COUNT": 36,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 984,
+        "condo": 7.3833,
+        "lp": 0,
+        "hdb": 193.0079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.801449,
+          1.440239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC2",
+        "Name": "370 Alexandra Road\r\r#01-15/16 Anchorpoint\r\rSingapore 159953\r",
+        "Postal Code": 159953,
+        "Chain": "1",
+        "condoby100 _COUNT": 37,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 333,
+        "condo": 10.45,
+        "lp": 0.6667,
+        "hdb": 99.0999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.804754,
+          1.288491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC3",
+        "Name": "715 Ang Mo Kio Avenue 6\r\r#01-4000\r\rSingapore 560715\r",
+        "Postal Code": 560715,
+        "Chain": "1",
+        "condoby100 _COUNT": 29,
+        "lpby100 _COUNT": 17,
+        "hdbby100 _COUNT": 704,
+        "condo": 4.5393,
+        "lp": 2.9159,
+        "hdb": 93.7535
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845985,
+          1.370832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC4",
+        "Name": "460 Alexandra Road\r\r#01-23/24 Alexandra Retail Centre\r\rSingapore 119963\r",
+        "Postal Code": 119963,
+        "Chain": "1",
+        "condoby100 _COUNT": 25,
+        "lpby100 _COUNT": 10,
+        "hdbby100 _COUNT": 102,
+        "condo": 8.5333,
+        "lp": 3.5,
+        "hdb": 30.7166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.801417,
+          1.274201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC5",
+        "Name": "209 New Upper Changi Rd \r\r#01-633 \r\rSingapore 460209\r",
+        "Postal Code": 460209,
+        "Chain": "1",
+        "condoby100 _COUNT": 78,
+        "lpby100 _COUNT": 87,
+        "hdbby100 _COUNT": 425,
+        "condo": 11.1794,
+        "lp": 11.8771,
+        "hdb": 57.8744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.931252,
+          1.324799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC6",
+        "Name": "311 New Upper Changi Road\r\r#B2-06/33 Bedok Mall\r\rSingapore 467360\r",
+        "Postal Code": 467360,
+        "Chain": "1",
+        "condoby100 _COUNT": 71,
+        "lpby100 _COUNT": 94,
+        "hdbby100 _COUNT": 379,
+        "condo": 8.6913,
+        "lp": 12.3056,
+        "hdb": 44.6959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929303,
+          1.324408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC7",
+        "Name": "632 Bedok Reservoir Road\r\r#01-872\r\rSingapore 470632\r",
+        "Postal Code": 470632,
+        "Chain": "1",
+        "condoby100 _COUNT": 27,
+        "lpby100 _COUNT": 35,
+        "hdbby100 _COUNT": 399,
+        "condo": 8.2833,
+        "lp": 12.2833,
+        "hdb": 170.5833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.913552,
+          1.332779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC8",
+        "Name": "Blk 227C Compassvale Link\r\r#01-13\r\rSingapore 543277\r",
+        "Postal Code": 543277,
+        "Chain": "1",
+        "condoby100 _COUNT": 57,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 820,
+        "condo": 17.2012,
+        "lp": 0.5111,
+        "hdb": 166.6713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893542,
+          1.382256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC9",
+        "Name": "200 Victoria Street\r\r#B1-09 Bugis Junction\r\rSingapore 188021\r",
+        "Postal Code": 188021,
+        "Chain": "1",
+        "condoby100 _COUNT": 21,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 176,
+        "condo": 1.4621,
+        "lp": 0.0556,
+        "hdb": 11.6738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855678,
+          1.29999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC10",
+        "Name": "165/166 Rochor Road\r\rBugis Village\r\rSingapore 188440\r",
+        "Postal Code": 188440,
+        "Chain": "1",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 181,
+        "condo": 1.5176,
+        "lp": 0.0556,
+        "hdb": 11.9723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855572,
+          1.300706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC11",
+        "Name": "162 Bukit Merah Central\r\r#01-3555\r\rSingapore 150162\r",
+        "Postal Code": 150162,
+        "Chain": "1",
+        "condoby100 _COUNT": 24,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 496,
+        "condo": 9.2333,
+        "lp": 0,
+        "hdb": 173.85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.816966,
+          1.28404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC12",
+        "Name": "1 Jelebu Road\r\r#02-12/13 Bukit Panjang Plaza\r\rSingapore 677743\r",
+        "Postal Code": 677743,
+        "Chain": "1",
+        "condoby100 _COUNT": 73,
+        "lpby100 _COUNT": 12,
+        "hdbby100 _COUNT": 870,
+        "condo": 10.944,
+        "lp": 1.9107,
+        "hdb": 126.8892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764364,
+          1.379906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC13",
+        "Name": "8 Grange Road\r\r#01-05 Cathay Cineleisure Orchard\r\rSingapore 239695\r",
+        "Postal Code": 239695,
+        "Chain": "1",
+        "condoby100 _COUNT": 118,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.7333,
+        "lp": 0.343,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836531,
+          1.301311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC14",
+        "Name": "1 Woodlands Square\r\r#01-40 Causeway Point \r\rSingapore 738099\r",
+        "Postal Code": 738099,
+        "Chain": "1",
+        "condoby100 _COUNT": 20,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 611,
+        "condo": 3.8833,
+        "lp": 0.4,
+        "hdb": 104.563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7862156,
+          1.435922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC15",
+        "Name": "80 Airport Boulevard\r\r#03-23 Viewing Mall East\r\rTerminal 1\r\rSingapore Changi Airport\r\rSingapore 819642",
+        "Postal Code": 819642,
+        "Chain": "1",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99097,
+          1.361739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC16",
+        "Name": "133 New Bridge Road\r\r#01-35 Chinatown Point\r\rSingapore 059413\r",
+        "Postal Code": 59413,
+        "Chain": "1",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 165,
+        "condo": 5.2777,
+        "lp": 0,
+        "hdb": 22.7906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84502,
+          1.285362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC17",
+        "Name": "Choa Chu Kang Avenue 4\r\r#B1-28/29 Lot 1 Shoppers' Mall\r\rSingapore 689812\r",
+        "Postal Code": 689812,
+        "Chain": "1",
+        "condoby100 _COUNT": 90,
+        "lpby100 _COUNT": 16,
+        "hdbby100 _COUNT": 607,
+        "condo": 10.9555,
+        "lp": 1.873,
+        "hdb": 80.8717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745,
+          1.385156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC18",
+        "Name": "1 Choa Chu Kang Street 53\r\r#03-02 Choa Chu Kang Sports and Recreation Centre\r\rSingapore 689236\r",
+        "Postal Code": 689236,
+        "Chain": "1",
+        "condoby100 _COUNT": 97,
+        "lpby100 _COUNT": 23,
+        "hdbby100 _COUNT": 610,
+        "condo": 15.0008,
+        "lp": 3.623,
+        "hdb": 123.4003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.748066,
+          1.390985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC19",
+        "Name": "180 Kitchener Road\r\r#B1-29/30 City Square Mall\r\rSingapore 208539\r",
+        "Postal Code": 208539,
+        "Chain": "1",
+        "condoby100 _COUNT": 64,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 278,
+        "condo": 9.308,
+        "lp": 1.1286,
+        "hdb": 36.2448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856072,
+          1.311528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC20",
+        "Name": "3155 Commonwealth Avenue West\r\r#B1-32/33 Clementi Mall\r\rSingapore 129588\r",
+        "Postal Code": 129588,
+        "Chain": "1",
+        "condoby100 _COUNT": 54,
+        "lpby100 _COUNT": 30,
+        "hdbby100 _COUNT": 445,
+        "condo": 16.9194,
+        "lp": 9.2262,
+        "hdb": 133.2749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76461,
+          1.315419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC21",
+        "Name": "1 Seng Kang Square \r\rCompass One, #B1-15 \r\rSingapore 545078",
+        "Postal Code": 545078,
+        "Chain": "1",
+        "condoby100 _COUNT": 46,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 934,
+        "condo": 6.3317,
+        "lp": 0.454,
+        "hdb": 148.8733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894973,
+          1.392302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC22",
+        "Name": "1 Pasir Ris Close\r\rE! Avenue, #01-337\r\rSingapore 519599\r",
+        "Postal Code": 519599,
+        "Chain": "1",
+        "condoby100 _COUNT": 68,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 393,
+        "condo": 14.9619,
+        "lp": 0.9524,
+        "hdb": 76.6439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.955362,
+          1.376346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC23",
+        "Name": "3 Simei Street 6\r\r#01-02/03 and K3 Eastpoint Mall\r\rSingapore 528833\r",
+        "Postal Code": 528833,
+        "Chain": "1",
+        "condoby100 _COUNT": 110,
+        "lpby100 _COUNT": 35,
+        "hdbby100 _COUNT": 440,
+        "condo": 25.1193,
+        "lp": 7.9512,
+        "hdb": 75.0757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.953126,
+          1.342771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC24",
+        "Name": "1 Joo Koon Circle\r\r#01-25/26 Fairprice Hub\r\rSingapore 629117\r",
+        "Postal Code": 629117,
+        "Chain": "1",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678838,
+          1.327351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC25",
+        "Name": "14 Scotts Road\r\r#01-06 Far East Plaza\r\rSingapore 228213\r",
+        "Postal Code": 228213,
+        "Chain": "1",
+        "condoby100 _COUNT": 96,
+        "lpby100 _COUNT": 10,
+        "hdbby100 _COUNT": 0,
+        "condo": 13.2077,
+        "lp": 1.3105,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833218,
+          1.307155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC26",
+        "Name": "1 Jurong West Street 74\r\r#01-02 Gek Poh Ville\r\rSingapore 649149\r",
+        "Postal Code": 649149,
+        "Chain": "1",
+        "condoby100 _COUNT": 18,
+        "lpby100 _COUNT": 17,
+        "hdbby100 _COUNT": 722,
+        "condo": 4.6903,
+        "lp": 4.9611,
+        "hdb": 156.7142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.698828,
+          1.348542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC27",
+        "Name": "524A Jelapang Road\r\r#01-04 Greenridge Shopping Centre\r\rSingapore 671524\r",
+        "Postal Code": 671524,
+        "Chain": "1",
+        "condoby100 _COUNT": 54,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 931,
+        "condo": 11.4155,
+        "lp": 0.4107,
+        "hdb": 249.6297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766537,
+          1.385044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC28",
+        "Name": "1 Fifth Avenue\r\r#01-02 Guthrie House\r\rSingapore 268802\r",
+        "Postal Code": 268802,
+        "Chain": "1",
+        "condoby100 _COUNT": 41,
+        "lpby100 _COUNT": 66,
+        "hdbby100 _COUNT": 0,
+        "condo": 41,
+        "lp": 66,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.795862,
+          1.330665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC29",
+        "Name": "1 Maritime Square \r\r#02-83/84 HarbourFront Centre \r\rSingapore 099253\r",
+        "Postal Code": 99253,
+        "Chain": "1",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 45,
+        "condo": 5.4866,
+        "lp": 0.0909,
+        "hdb": 15.0333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819931,
+          1.265273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC30",
+        "Name": "17 Petir Road\r\r#B2-54/55/56 Hillion Mall\r\rSingapore 678278",
+        "Postal Code": 678278,
+        "Chain": "1",
+        "condoby100 _COUNT": 74,
+        "lpby100 _COUNT": 18,
+        "hdbby100 _COUNT": 774,
+        "condo": 11.844,
+        "lp": 4.0774,
+        "hdb": 109.3701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763977,
+          1.378336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC31",
+        "Name": "2 Bukit Batok West Avenue 7\r\r#01-09A HomeTeamNS\r\rSingapore 659003\r",
+        "Postal Code": 659003,
+        "Chain": "1",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 8,
+        "hdbby100 _COUNT": 340,
+        "condo": 15.75,
+        "lp": 4.5,
+        "hdb": 175.0833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.748503,
+          1.365784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC32",
+        "Name": "1 Hougang Street 91\r\r#01-24/25 Hougang 1\r\rSingapore 538692\r",
+        "Postal Code": 538692,
+        "Chain": "1",
+        "condoby100 _COUNT": 29,
+        "lpby100 _COUNT": 39,
+        "hdbby100 _COUNT": 678,
+        "condo": 12.2833,
+        "lp": 16.0111,
+        "hdb": 223.1412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879674,
+          1.375515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC33",
+        "Name": "90 Hougang Avenue 10\r\r#01-19 NTUC Hougang Mall\r\rSingapore 538766\r",
+        "Postal Code": 538766,
+        "Chain": "1",
+        "condoby100 _COUNT": 82,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 728,
+        "condo": 19.025,
+        "lp": 4.4278,
+        "hdb": 132.5876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893564,
+          1.372383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC34",
+        "Name": "7 Jalan Bukit Merah\r\r#01-4436 \r\rSingapore 150007\r",
+        "Postal Code": 150007,
+        "Chain": "1",
+        "condoby100 _COUNT": 37,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 334,
+        "condo": 10.45,
+        "lp": 0.6667,
+        "hdb": 99.2999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.804811,
+          1.288468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC35",
+        "Name": "35 Jalan Mas Puteh\r\rSingapore 128635\r",
+        "Postal Code": 128635,
+        "Chain": "1",
+        "condoby100 _COUNT": 57,
+        "lpby100 _COUNT": 23,
+        "hdbby100 _COUNT": 329,
+        "condo": 14.1313,
+        "lp": 5.3095,
+        "hdb": 69.2464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762361,
+          1.308416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC36",
+        "Name": "2 Jurong East Central 1\r\r#04-08/20 JCube Mall\r\rSingapore 609731\r",
+        "Postal Code": 609731,
+        "Chain": "1",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 289,
+        "condo": 1.8592,
+        "lp": 0,
+        "hdb": 26.8575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740275,
+          1.333522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC37",
+        "Name": "50 Jurong Gateway Road\r\r#B1-04 Jem\r\rSingapore 608549\r",
+        "Postal Code": 608549,
+        "Chain": "1",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 261,
+        "condo": 1.2985,
+        "lp": 0,
+        "hdb": 22.1281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74331,
+          1.333051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC38",
+        "Name": "9 Bishan Place\r\r#01-21 Junction 8 Shopping Centre\r\rSingapore 579837\r",
+        "Postal Code": 579837,
+        "Chain": "1",
+        "condoby100 _COUNT": 55,
+        "lpby100 _COUNT": 19,
+        "hdbby100 _COUNT": 438,
+        "condo": 11.144,
+        "lp": 5.2381,
+        "hdb": 84.3321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849057,
+          1.350464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC39",
+        "Name": "21 Jurong East Street 31\r\r#02-01 Jurong East Sports & Recreation Centre\r\rSingapore 609517\r",
+        "Postal Code": 609517,
+        "Chain": "1",
+        "condoby100 _COUNT": 48,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 448,
+        "condo": 19.0595,
+        "lp": 0.25,
+        "hdb": 150.9547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.730039,
+          1.345976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC40",
+        "Name": "1 Jurong West Central 2\r\r#01-30 Jurong Point\r\rSingapore 648886\r",
+        "Postal Code": 648886,
+        "Chain": "1",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 786,
+        "condo": 1.1952,
+        "lp": 0.0833,
+        "hdb": 71.8013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.706461,
+          1.339656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC41",
+        "Name": "501 Jurong West Street 51\r\r#01-257\r\rSingapore 640501\r",
+        "Postal Code": 640501,
+        "Chain": "1",
+        "condoby100 _COUNT": 44,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 702,
+        "condo": 16.625,
+        "lp": 0.25,
+        "hdb": 248.8023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.719229,
+          1.350116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC42",
+        "Name": "190 Stadium Boulevard \r\rSingapore 397800",
+        "Postal Code": 397800,
+        "Chain": "1",
+        "condoby100 _COUNT": 104,
+        "lpby100 _COUNT": 16,
+        "hdbby100 _COUNT": 125,
+        "condo": 34.3,
+        "lp": 8.5,
+        "hdb": 42.9333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881335,
+          1.304969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC43",
+        "Name": "253 Choa Chu Kang Avenue 1\r\r#01-02 Keat Hong Shopping Centre\r\rSingapore 680253",
+        "Postal Code": 680253,
+        "Chain": "1",
+        "condoby100 _COUNT": 50,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 602,
+        "condo": 9.2341,
+        "lp": 0.8667,
+        "hdb": 216.9594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744325,
+          1.377127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC44",
+        "Name": "31 Beach View Kidzania \r\rLot A - 10 \r\rSingapore 098008",
+        "Postal Code": 98008,
+        "Chain": "1",
+        "condoby100 _COUNT": 6,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 0,
+        "condo": 1.3485,
+        "lp": 1.0909,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820278,
+          1.25142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC45",
+        "Name": "205 Hougang Street 21\r\r#01-13 Heartland Mall\r\rSingapore 530205\r",
+        "Postal Code": 530205,
+        "Chain": "1",
+        "condoby100 _COUNT": 98,
+        "lpby100 _COUNT": 126,
+        "hdbby100 _COUNT": 292,
+        "condo": 43.7417,
+        "lp": 49.9214,
+        "hdb": 114.863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885283,
+          1.359685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC46",
+        "Name": "60 Jurong West Street 91\r\r#01-02 Nanyang Community Centre\r\rSingapore 649040\r",
+        "Postal Code": 649040,
+        "Chain": "1",
+        "condoby100 _COUNT": 20,
+        "lpby100 _COUNT": 30,
+        "hdbby100 _COUNT": 680,
+        "condo": 7.9076,
+        "lp": 12.7111,
+        "hdb": 210.4356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.692495,
+          1.342482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC47",
+        "Name": "76 Nanyang Drive\r\rNanyang Technological University\r\rBlock N2.1 #01-04\r\rSingapore 637331\r\r",
+        "Postal Code": 637331,
+        "Chain": "1",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 22,
+        "condo": 0,
+        "lp": 0.5,
+        "hdb": 5.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.680223,
+          1.34746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC48",
+        "Name": "30 Yishun Street 81\r\r#01-03, Nee Soon South CC\r\rSingapore 768455",
+        "Postal Code": 768455,
+        "Chain": "1",
+        "condoby100 _COUNT": 20,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 362,
+        "condo": 7.0909,
+        "lp": 0,
+        "hdb": 133.7628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835062,
+          1.414981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC49",
+        "Name": "23 Serangoon Central\r\r#B1-32/33 Nex\r\rSingapore 556083\r",
+        "Postal Code": 556083,
+        "Chain": "1",
+        "condoby100 _COUNT": 87,
+        "lpby100 _COUNT": 87,
+        "hdbby100 _COUNT": 342,
+        "condo": 17.3702,
+        "lp": 15.2428,
+        "hdb": 61.5701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873158,
+          1.350231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC50",
+        "Name": "238 Thomson Road\r\r#01-17 Novena Square\r\rSingapore 307683\r",
+        "Postal Code": 307683,
+        "Chain": "1",
+        "condoby100 _COUNT": 120,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 125,
+        "condo": 16.461,
+        "lp": 4.2281,
+        "hdb": 13.8084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843677,
+          1.320549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC51",
+        "Name": "11 Tanjong Katong Road\r\r#01-50/51 One KM\r\rSingapore 437157\r",
+        "Postal Code": 437157,
+        "Chain": "1",
+        "condoby100 _COUNT": 85,
+        "lpby100 _COUNT": 50,
+        "hdbby100 _COUNT": 225,
+        "condo": 15.6476,
+        "lp": 11.5702,
+        "hdb": 37.3928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894783,
+          1.314934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC52",
+        "Name": "80 Marine Parade Road\r\r#01-11A Parkway Parade\r\rSingapore 449269\r",
+        "Postal Code": 449269,
+        "Chain": "1",
+        "condoby100 _COUNT": 102,
+        "lpby100 _COUNT": 47,
+        "hdbby100 _COUNT": 160,
+        "condo": 35.3166,
+        "lp": 16.95,
+        "hdb": 47.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90511,
+          1.302152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC53",
+        "Name": "68 Orchard Road\r\r#B1-21/22 Plaza Singapura\r\rSingapore 238839\r",
+        "Postal Code": 238839,
+        "Chain": "1",
+        "condoby100 _COUNT": 67,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 45,
+        "condo": 4.631,
+        "lp": 0.3216,
+        "hdb": 2.2713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845131,
+          1.300583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC54",
+        "Name": "6 Potong Pasir Avenue 2\r\rPotong Pasir Community Club\r\rSingapore 358361\r",
+        "Postal Code": 358361,
+        "Chain": "1",
+        "condoby100 _COUNT": 51,
+        "lpby100 _COUNT": 34,
+        "hdbby100 _COUNT": 292,
+        "condo": 21.5,
+        "lp": 16.5833,
+        "hdb": 117.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.867345,
+          1.332777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC55",
+        "Name": "60 Punggol East\r\r#01-09 \r\rSingapore 828825\r",
+        "Postal Code": 828825,
+        "Chain": "1",
+        "condoby100 _COUNT": 29,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 519,
+        "condo": 10.25,
+        "lp": 0,
+        "hdb": 178.6331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.917367,
+          1.395419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC56",
+        "Name": "168 Punggol Field\r\r#B1-02/03 Punggol Plaza\r\rSingapore 820168\r",
+        "Postal Code": 820168,
+        "Chain": "1",
+        "condoby100 _COUNT": 62,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 815,
+        "condo": 16.1571,
+        "lp": 0.1429,
+        "hdb": 214.0379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.912928,
+          1.394558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC57",
+        "Name": "11 Rivervale Crescent\r\r#01-36 Rivervale Mall\r\rSingapore 545082\r",
+        "Postal Code": 545082,
+        "Chain": "1",
+        "condoby100 _COUNT": 88,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 1000,
+        "condo": 14.4794,
+        "lp": 0.7302,
+        "hdb": 157.3458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904362,
+          1.39225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC58",
+        "Name": "118 Rivervale Drive\r\r#01-31 Sengkang New Town\r\rSingapore 540118\r",
+        "Postal Code": 540118,
+        "Chain": "1",
+        "condoby100 _COUNT": 84,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 807,
+        "condo": 20.1075,
+        "lp": 0.254,
+        "hdb": 155.7733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.901514,
+          1.385115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC59",
+        "Name": "3 Siloso Road\r\r#01-04 Merlion Plaza\r\rSingapore 098977\r",
+        "Postal Code": 98977,
+        "Chain": "1",
+        "condoby100 _COUNT": 6,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 0,
+        "condo": 1.3485,
+        "lp": 0.5909,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819227,
+          1.254326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC60",
+        "Name": "261 Serangoon Central Drive\r\r#01-15 \r\rSingapore 550261\r",
+        "Postal Code": 550261,
+        "Chain": "1",
+        "condoby100 _COUNT": 80,
+        "lpby100 _COUNT": 105,
+        "hdbby100 _COUNT": 359,
+        "condo": 15.9535,
+        "lp": 22.0928,
+        "hdb": 67.7534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.872448,
+          1.354133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC61",
+        "Name": "360 Balestier Road\r\r#01-13 Shaw Plaza Twin Heights\r\rSingapore 329783\r",
+        "Postal Code": 329783,
+        "Chain": "1",
+        "condoby100 _COUNT": 123,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 418,
+        "condo": 16.6598,
+        "lp": 1.467,
+        "hdb": 57.6645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851555,
+          1.324733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC62",
+        "Name": "901 East Coast Road\r\r7 Siglap Shopping Centre\r\rSingapore 459104\r",
+        "Postal Code": 459104,
+        "Chain": "1",
+        "condoby100 _COUNT": 113,
+        "lpby100 _COUNT": 90,
+        "hdbby100 _COUNT": 1,
+        "condo": 48.5604,
+        "lp": 34.5481,
+        "hdb": 0.3333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.924153,
+          1.312867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC63",
+        "Name": "500 Dover Road\r\rSingapore Polytechnic\r\rCanteen 5 Stall 3\r\rSingapore 139651\r",
+        "Postal Code": 139651,
+        "Chain": "1",
+        "condoby100 _COUNT": 65,
+        "lpby100 _COUNT": 16,
+        "hdbby100 _COUNT": 154,
+        "condo": 20.0266,
+        "lp": 6.9667,
+        "hdb": 30.1607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.777081,
+          1.309733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC64",
+        "Name": "80 Mandai Lake Road\r\rSingapore 729826\r",
+        "Postal Code": 729826,
+        "Chain": "1",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790484,
+          1.405215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC65",
+        "Name": "80 Mandai Lake Road\r\rSingapore 729826\r",
+        "Postal Code": 729826,
+        "Chain": "1",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791021,
+          1.405049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC66",
+        "Name": "30 Sembawang Drive\r\r#01-25 Sun Plaza\r\rSingapore 757713\r",
+        "Postal Code": 757713,
+        "Chain": "1",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 493,
+        "condo": 3.5,
+        "lp": 1.6667,
+        "hdb": 150.8332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819424,
+          1.448235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC67",
+        "Name": "391A Orchard Road\r\rNgee Ann City\r\r#B1-03 Takashimaya Shopping Centre\r\rSingapore 238873\r",
+        "Postal Code": 238873,
+        "Chain": "1",
+        "condoby100 _COUNT": 112,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.1409,
+        "lp": 0.693,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834716,
+          1.302428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC68",
+        "Name": "1 Tampines Central 5\r\r#01-04 CPF Tampines Building\r\rSingapore 529508\r",
+        "Postal Code": 529508,
+        "Chain": "1",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 810,
+        "condo": 2.8887,
+        "lp": 0,
+        "hdb": 75.4617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.94372,
+          1.35306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC69",
+        "Name": "51 Tampines Ave 4\r\r#01-13\r\rFestive Mall @ Our Tampines Hub\r\rSingapore 529684",
+        "Postal Code": 529684,
+        "Chain": "1",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 776,
+        "condo": 5.8947,
+        "lp": 0,
+        "hdb": 117.6604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.940162,
+          1.352661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC70",
+        "Name": "5 Tampines Street 32\r\r#01-07/16 Tampines Mart\r\rSingapore 529284\r",
+        "Postal Code": 529284,
+        "Chain": "1",
+        "condoby100 _COUNT": 116,
+        "lpby100 _COUNT": 28,
+        "hdbby100 _COUNT": 599,
+        "condo": 40.8345,
+        "lp": 9.7,
+        "hdb": 222.7304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.960258,
+          1.35435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC71",
+        "Name": "139 Tampines Street 11\r\r#01-66\r\rSingapore 521139\r",
+        "Postal Code": 521139,
+        "Chain": "1",
+        "condoby100 _COUNT": 60,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 699,
+        "condo": 16.9382,
+        "lp": 2.25,
+        "hdb": 130.7276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944165,
+          1.346158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC72",
+        "Name": "823A Tampines Street 81\r\r#01-02\r\rSingapore 521823\r",
+        "Postal Code": 521823,
+        "Chain": "1",
+        "condoby100 _COUNT": 51,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 572,
+        "condo": 14.8015,
+        "lp": 0,
+        "hdb": 156.3183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933233,
+          1.348811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC73",
+        "Name": "51 Changi Business Park Central 2\r\r#01-15 The Signature\r\rSingapore 486066\r",
+        "Postal Code": 486066,
+        "Chain": "1",
+        "condoby100 _COUNT": 15,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 21,
+        "condo": 2.7012,
+        "lp": 0.575,
+        "hdb": 2.7357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.965595,
+          1.334974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC74",
+        "Name": "301 Upper Thomson Road\r\r#02-24/30/33/38 Thomson Plaza\r\rSingapore 574408\r",
+        "Postal Code": 574408,
+        "Chain": "1",
+        "condoby100 _COUNT": 64,
+        "lpby100 _COUNT": 44,
+        "hdbby100 _COUNT": 85,
+        "condo": 60.5,
+        "lp": 43.5,
+        "hdb": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831029,
+          1.354701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC75",
+        "Name": "302 Tiong Bahru Rd\r\r#B1-133/134\r\rSingapore 168732",
+        "Postal Code": 168732,
+        "Chain": "1",
+        "condoby100 _COUNT": 50,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 635,
+        "condo": 12.7857,
+        "lp": 1.5,
+        "hdb": 160.388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827187,
+          1.286495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC76",
+        "Name": "190 Toa Payoh Lorong 6\r\r#01-578\r\rSingapore 310190\r",
+        "Postal Code": 310190,
+        "Chain": "1",
+        "condoby100 _COUNT": 66,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 666,
+        "condo": 7.3975,
+        "lp": 0.2991,
+        "hdb": 90.5954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849956,
+          1.332891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC77",
+        "Name": "381 Toa Payoh Lorong 1\r\r#01-13 Joint Social Service Centre\r\rSingapore 319758\r",
+        "Postal Code": 319758,
+        "Chain": "1",
+        "condoby100 _COUNT": 44,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 527,
+        "condo": 10.8436,
+        "lp": 2.0714,
+        "hdb": 101.941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845197,
+          1.340311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC78",
+        "Name": "102 Towner Road\r\r#01-246/248\r\rSingapore 322102\r",
+        "Postal Code": 322102,
+        "Chain": "1",
+        "condoby100 _COUNT": 91,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 422,
+        "condo": 20.8369,
+        "lp": 2.394,
+        "hdb": 138.3825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861869,
+          1.320363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC79",
+        "Name": "83 Punggol Central\r\r#B2-08 Waterway Point\r\rSingapore 828761\r",
+        "Postal Code": 828761,
+        "Chain": "1",
+        "condoby100 _COUNT": 48,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 502,
+        "condo": 12.2397,
+        "lp": 0.25,
+        "hdb": 123.7737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902279,
+          1.40603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC80",
+        "Name": "1 Bukit Batok Central Link\r\r#01-24/25/43 West Mall\r\rSingapore 658713\r",
+        "Postal Code": 658713,
+        "Chain": "1",
+        "condoby100 _COUNT": 45,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 570,
+        "condo": 12.2262,
+        "lp": 0,
+        "hdb": 157.6741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749147,
+          1.350113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC81",
+        "Name": "1 Pasir Ris Central Street 3\r\r#01-14/15 White Sands\r\rSingapore 518457\r",
+        "Postal Code": 518457,
+        "Chain": "1",
+        "condoby100 _COUNT": 85,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 462,
+        "condo": 16.8785,
+        "lp": 1.269,
+        "hdb": 92.2106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949845,
+          1.372253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC82",
+        "Name": "888 Woodlands Drive 50\r\r#01-729\r\rSingapore 730888\r",
+        "Postal Code": 730888,
+        "Chain": "1",
+        "condoby100 _COUNT": 35,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 940,
+        "condo": 12.8333,
+        "lp": 0,
+        "hdb": 205.4795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.795386,
+          1.437871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC83",
+        "Name": "21 Choa Chu Kang North 6\r\r#01-19/20 Yew Tee Point\r\rSingapore 689578\r",
+        "Postal Code": 689578,
+        "Chain": "1",
+        "condoby100 _COUNT": 80,
+        "lpby100 _COUNT": 21,
+        "hdbby100 _COUNT": 680,
+        "condo": 25.7651,
+        "lp": 3.3373,
+        "hdb": 201.8924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746724,
+          1.39679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC84",
+        "Name": "701A Yishun Avenue 5\r\r#01-02\r\rSingapore 761701\r",
+        "Postal Code": 761701,
+        "Chain": "1",
+        "condoby100 _COUNT": 75,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 544,
+        "condo": 15.3282,
+        "lp": 3.6667,
+        "hdb": 79.5343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827985,
+          1.430063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "KFC85",
+        "Name": "18 Yung Ho Road\r\rSingapore 618591\r\r\r",
+        "Postal Code": 618591,
+        "Chain": "1",
+        "condoby100 _COUNT": 28,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 165,
+        "condo": 15.6667,
+        "lp": 1,
+        "hdb": 94.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.723858,
+          1.326389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK1",
+        "Name": "460 Alexandra Road #01-17 and #01-20 PSA Building (Alexandra Retail Centre) Singapore 119963 ALEXANDRA RETAIL CENTRE  \r",
+        "Postal Code": 119963,
+        "Chain": "2",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 10,
+        "hdbby100 _COUNT": 100,
+        "condo": 7.0333,
+        "lp": 3.5,
+        "hdb": 30.2166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8014294,
+          1.2739814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK2",
+        "Name": "53 Ang Mo Kio Avenue 3 #01-40 Amk Hub Singapore 569933 ANG MO KIO HUB  \r",
+        "Postal Code": 569933,
+        "Chain": "2",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 766,
+        "condo": 2.9393,
+        "lp": 1.9159,
+        "hdb": 106.8868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8483509,
+          1.3693085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK3",
+        "Name": "241,243 Victoria Street Bugis Village Singapore 188030 BUGIS VILLAGE  \r",
+        "Postal Code": 188030,
+        "Chain": "2",
+        "condoby100 _COUNT": 21,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 173,
+        "condo": 1.3176,
+        "lp": 0.0556,
+        "hdb": 10.8989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8553262,
+          1.3002954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK4",
+        "Name": "23 Bukit Batok East Avenue 4 #01-01 Bukit Batok East Community Club BUKIT BATOK EAST  \r",
+        "Postal Code": 659841,
+        "Chain": "2",
+        "condoby100 _COUNT": 104,
+        "lpby100 _COUNT": 24,
+        "hdbby100 _COUNT": 396,
+        "condo": 80.4167,
+        "lp": 23.5,
+        "hdb": 169.3333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.758264,
+          1.348991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK5",
+        "Name": "Bukit Panjang Plaza 1 Jelebu Road #01-28 Singapore 677743 BUKIT PANJANG PLAZA  \r",
+        "Postal Code": 677743,
+        "Chain": "2",
+        "condoby100 _COUNT": 69,
+        "lpby100 _COUNT": 12,
+        "hdbby100 _COUNT": 874,
+        "condo": 10.1774,
+        "lp": 1.9107,
+        "hdb": 128.7487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7642893,
+          1.3800974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK6",
+        "Name": "175 Bencoolen Street #01-01 Burlington Square Singapore 189649 BURLINGTON SQUARE  \r",
+        "Postal Code": 189649,
+        "Chain": "2",
+        "condoby100 _COUNT": 29,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 153,
+        "condo": 2.3161,
+        "lp": 0.0556,
+        "hdb": 11.3431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8526288,
+          1.3022604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK7",
+        "Name": "The Central 6 Eu Tong Sen Street #01-23 to 26 Singapore 059817 CENTRAL  \r",
+        "Postal Code": 59817,
+        "Chain": "2",
+        "condoby100 _COUNT": 29,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 91,
+        "condo": 3.7838,
+        "lp": 0,
+        "hdb": 10.2743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8467906,
+          1.2889622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK8",
+        "Name": "80 Airport Boulevard Arrival Meeting Hall East #01-07 Terminal 1 Singapore 819642 TERMINAL 1  \r",
+        "Postal Code": 819642,
+        "Chain": "2",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9895912,
+          1.3627793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK9",
+        "Name": "Terminal 1 Departure, Transit Lounge West Mezzanine Level #03-02 Singapore Changi Airport Singapore 819642 TERMINAL 1 TRANSIT WEST  \r",
+        "Postal Code": 819642,
+        "Chain": "2",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9900509,
+          1.3621589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK10",
+        "Name": "Terminal 3 Departure , Transit Lounge North Mezzanine Level #L03AF11 Singapore Changi Airport 65 Airport Boulevard Singapore 819663 TERMINAL 3 TRANSIT  \r",
+        "Postal Code": 819663,
+        "Chain": "2",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.986862,
+          1.356428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK11",
+        "Name": "Terminal 4 Departure, Transit Lounge Level 2 Mezzanine #02-228 TERMINAL 4 TRANSIT \r",
+        "Postal Code": 918141,
+        "Chain": "2",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.986862,
+          1.356428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK12",
+        "Name": "2 CHANGI BUSINESS PARK AVENUE 1 #01-05 CHANGI BUSINESS PARK  \r",
+        "Postal Code": 486066,
+        "Chain": "2",
+        "condoby100 _COUNT": 15,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 20,
+        "condo": 2.8083,
+        "lp": 1.3845,
+        "hdb": 2.5929
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9650339,
+          1.3339231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK13",
+        "Name": "8 Grange Road #01-07 Cathay Cineleisure Orchard Singapore 239695 CINELEISURE ORCHARD  \r",
+        "Postal Code": 239695,
+        "Chain": "2",
+        "condoby100 _COUNT": 116,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.2666,
+        "lp": 0.343,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836254,
+          1.3017676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK14",
+        "Name": "1 Sengkang Square #B1-14,14A COMPASS ONE  \r",
+        "Postal Code": 545078,
+        "Chain": "2",
+        "condoby100 _COUNT": 48,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 953,
+        "condo": 6.8317,
+        "lp": 0.454,
+        "hdb": 151.2971
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8954407,
+          1.3922333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK15",
+        "Name": "90 Bras Basah Road #B1-27,27A,28,28A Esplanade MRT Station Singapore 189562 ESPLANADE MRT  \r",
+        "Postal Code": 189562,
+        "Chain": "2",
+        "condoby100 _COUNT": 4,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 70,
+        "condo": 0.1972,
+        "lp": 0,
+        "hdb": 3.9703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855381,
+          1.293436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK16",
+        "Name": "Fairprice Hub 1 Joo Koon Circle #01-51  Singapore 629117 FAIRPRICE HUB  \r",
+        "Postal Code": 629117,
+        "Chain": "2",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6786492,
+          1.3273658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK17",
+        "Name": "Fuchun Community ClubNo.1 Woodlands Street 31 #01-01 Singapore 738581 FUCHUN COMMUNITY CLUB\r",
+        "Postal Code": 738581,
+        "Chain": "2",
+        "condoby100 _COUNT": 37,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 427,
+        "condo": 31.0667,
+        "lp": 5.5,
+        "hdb": 310.5833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7751946,
+          1.4294588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK18",
+        "Name": "11 BEDOK NORTH STREET 1 #01-33 S'PORE 469662 HEARTBEAT@BEDOK  \r",
+        "Postal Code": 469662,
+        "Chain": "2",
+        "condoby100 _COUNT": 73,
+        "lpby100 _COUNT": 77,
+        "hdbby100 _COUNT": 511,
+        "condo": 12.5286,
+        "lp": 11.754,
+        "hdb": 96.2197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9320108,
+          1.32684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK19",
+        "Name": "Income At Raffles 16 Collyer Quay #01-01,02 Singapore 049318 HITACHI TOWER  \r",
+        "Postal Code": 49318,
+        "Chain": "2",
+        "condoby100 _COUNT": 7,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 49,
+        "condo": 0.6976,
+        "lp": 0,
+        "hdb": 3.7917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8525826,
+          1.2841383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK20",
+        "Name": "2 Jurong East Street 21 #01-51 Singapore 609601 IMM BUILDING  \r",
+        "Postal Code": 609601,
+        "Chain": "2",
+        "condoby100 _COUNT": 11,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 251,
+        "condo": 1.4019,
+        "lp": 0,
+        "hdb": 24.6151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746802,
+          1.3348794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK21",
+        "Name": "50 Jurong Gateway Road JEM #B1-02 Singapore 608549 JURONG EAST MALL  \r",
+        "Postal Code": 608549,
+        "Chain": "2",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 266,
+        "condo": 1.1318,
+        "lp": 0,
+        "hdb": 22.5206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7433637,
+          1.3332506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK22",
+        "Name": "63 Jurong West Central 3 #B1-54,55 Jurong Point Shopping Centre Singapore 648331 JURONG POINT  \r",
+        "Postal Code": 648331,
+        "Chain": "2",
+        "condoby100 _COUNT": 16,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 845,
+        "condo": 1.788,
+        "lp": 0.1944,
+        "hdb": 83.3544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7061349,
+          1.3404082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK23",
+        "Name": "Kallang Leisure Park 5 Stadium Walk #01-57 Singapore 397693 KALLANG LEISURE PARK  \r",
+        "Postal Code": 397693,
+        "Chain": "2",
+        "condoby100 _COUNT": 74,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 77,
+        "condo": 18.4333,
+        "lp": 0,
+        "hdb": 18.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8764384,
+          1.3023461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK24",
+        "Name": "216 Ang Mo Kio Ave 4 #01-01  KEBUN BARU COMMUNITY CLUB  \r",
+        "Postal Code": 569897,
+        "Chain": "2",
+        "condoby100 _COUNT": 45,
+        "lpby100 _COUNT": 62,
+        "hdbby100 _COUNT": 512,
+        "condo": 14.7555,
+        "lp": 29.8944,
+        "hdb": 147.5357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8376575,
+          1.3730802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK25",
+        "Name": "1 Lower Kent Ridge Road #03-11 One@Kent Ridge Singapore 119082 KENT RIDGE CENTRE  \r",
+        "Postal Code": 119082,
+        "Chain": "2",
+        "condoby100 _COUNT": 20,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 21,
+        "condo": 17.8929,
+        "lp": 5.5,
+        "hdb": 6.1119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7844659,
+          1.2935959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK26",
+        "Name": "BLK 809 French Road #01-31  Kitchener Complex Singapore 200809 KITCHENER COMPLEX  \r",
+        "Postal Code": 200809,
+        "Chain": "2",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 193,
+        "condo": 4.4409,
+        "lp": 0.1429,
+        "hdb": 27.5976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8622513,
+          1.308165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK27",
+        "Name": "Blk 258 Pasir Ris Street 21 #01-23 LOYANG POINT  \r",
+        "Postal Code": 510258,
+        "Chain": "2",
+        "condoby100 _COUNT": 81,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 471,
+        "condo": 32.0929,
+        "lp": 10,
+        "hdb": 172.025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9645099,
+          1.3669051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK28",
+        "Name": "8A MARINA BOULEVARD #B2-03  MARINA BAY LINK  MALL MARINA BAY LINK MALL  \r",
+        "Postal Code": 18984,
+        "Chain": "2",
+        "condoby100 _COUNT": 8,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 28,
+        "condo": 1.015,
+        "lp": 0,
+        "hdb": 1.915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8543588,
+          1.2795191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK29",
+        "Name": "Novena Square 238 Thomson Road #01-08,09 Singapore 307683 NOVENA SQUARE  \r",
+        "Postal Code": 307683,
+        "Chain": "2",
+        "condoby100 _COUNT": 117,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 113,
+        "condo": 16.2085,
+        "lp": 4.2281,
+        "hdb": 12.4129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8434088,
+          1.3202367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK30",
+        "Name": "60 Paya Lebar Road #01-40,41,42,43 Paya Lebar Square Singapore 409051 PAYA LEBAR SQUARE  \r",
+        "Postal Code": 409051,
+        "Chain": "2",
+        "condoby100 _COUNT": 76,
+        "lpby100 _COUNT": 30,
+        "hdbby100 _COUNT": 312,
+        "condo": 11.5309,
+        "lp": 4.7036,
+        "hdb": 56.0262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892581,
+          1.318927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK31",
+        "Name": "Plaza Singapura 68 Orchard Road #B1-11 Singapore 238839 PLAZA SINGAPURA  \r",
+        "Postal Code": 238839,
+        "Chain": "2",
+        "condoby100 _COUNT": 67,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 42,
+        "condo": 4.4143,
+        "lp": 0.3216,
+        "hdb": 2.0986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8448524,
+          1.3005659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK32",
+        "Name": "604 Sembawang Road #01-01  Sembawang Shopping Centre Singapore 758459 SEMBAWANG SHOPPING CENTRE  \r",
+        "Postal Code": 758459,
+        "Chain": "2",
+        "condoby100 _COUNT": 36,
+        "lpby100 _COUNT": 20,
+        "hdbby100 _COUNT": 303,
+        "condo": 14.1667,
+        "lp": 13.1667,
+        "hdb": 78.8964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8245683,
+          1.4417611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK33",
+        "Name": "1 Expo Drive Singapore Expo #01-13 Singapore 486150 SINGAPORE EXPO  \r",
+        "Postal Code": 486150,
+        "Chain": "2",
+        "condoby100 _COUNT": 38,
+        "lpby100 _COUNT": 21,
+        "hdbby100 _COUNT": 89,
+        "condo": 11.7679,
+        "lp": 7.4512,
+        "hdb": 26.9952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.959537,
+          1.3335251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK34",
+        "Name": "3 Temasek Boulevard #03-371 Suntec City Mall Singapore 038983 SUNTEC CITY MALL  \r",
+        "Postal Code": 38983,
+        "Chain": "2",
+        "condoby100 _COUNT": 3,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 84,
+        "condo": 0.2537,
+        "lp": 0,
+        "hdb": 6.5396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8573528,
+          1.2935943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK35",
+        "Name": "Tampines Mall 4 Tampines Central 5 #01-47 Singapore 529510 TAMPINES MALL  \r",
+        "Postal Code": 529510,
+        "Chain": "2",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 829,
+        "condo": 2.8649,
+        "lp": 0,
+        "hdb": 74.3516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9447259,
+          1.3525342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK36",
+        "Name": "Tampines North Community Club Management Committee-2 Tampines ST.41 #01-02 Singapore 529204 TAMPINES NORTH COMMUNITY CLUB  \r",
+        "Postal Code": 529204,
+        "Chain": "2",
+        "condoby100 _COUNT": 30,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 702,
+        "condo": 5.8679,
+        "lp": 0,
+        "hdb": 118.0649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9466476,
+          1.3572965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK37",
+        "Name": "530 Lorong 6 Toa Payoh #01-05 Singapore 310530 TOA PAYOH  \r",
+        "Postal Code": 310530,
+        "Chain": "2",
+        "condoby100 _COUNT": 71,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 633,
+        "condo": 8.4309,
+        "lp": 0.4658,
+        "hdb": 79.901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8481608,
+          1.332439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK38",
+        "Name": "750A Chai Chee Road #01-02 Viva Business Park VIVA BUSINESS PARK\r",
+        "Postal Code": 469000,
+        "Chain": "2",
+        "condoby100 _COUNT": 74,
+        "lpby100 _COUNT": 109,
+        "hdbby100 _COUNT": 264,
+        "condo": 20.5267,
+        "lp": 33.0822,
+        "hdb": 69.5982
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9225866,
+          1.3235591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK39",
+        "Name": "1 Harbourfront Walk #02-80,81 Singapore 098585 VIVO CITY\r",
+        "Postal Code": 98585,
+        "Chain": "2",
+        "condoby100 _COUNT": 9,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 26,
+        "condo": 1.3199,
+        "lp": 0.0909,
+        "hdb": 4.2833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8215941,
+          1.2638109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "BK40",
+        "Name": "2 CLEMENTI WEST STREET 2  #01-01 WEST COAST COMMUNITY CLUB",
+        "Postal Code": 129605,
+        "Chain": "2",
+        "condoby100 _COUNT": 51,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 282,
+        "condo": 11.698,
+        "lp": 1.8095,
+        "hdb": 61.7083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764943,
+          1.302569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO1",
+        "Name": "Changi",
+        "Postal Code": 819643,
+        "Chain": "3",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.988337,
+          1.355322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO2",
+        "Name": "Changi",
+        "Postal Code": 819643,
+        "Chain": "3",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.988337,
+          1.355322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO3",
+        "Name": "Changi",
+        "Postal Code": 819663,
+        "Chain": "3",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98651,
+          1.356716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO4",
+        "Name": "Changi",
+        "Postal Code": 819665,
+        "Chain": "3",
+        "condoby100 _COUNT": 1,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 1,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9838844,
+          1.33854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO5",
+        "Name": "Pasir Ris",
+        "Postal Code": 510258,
+        "Chain": "3",
+        "condoby100 _COUNT": 77,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 451,
+        "condo": 29.4262,
+        "lp": 10,
+        "hdb": 165.0964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.964726,
+          1.367095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO6",
+        "Name": "Tampines",
+        "Postal Code": 486038,
+        "Chain": "3",
+        "condoby100 _COUNT": 26,
+        "lpby100 _COUNT": 10,
+        "hdbby100 _COUNT": 42,
+        "condo": 5.0679,
+        "lp": 1.6345,
+        "hdb": 6.8452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9639813,
+          1.3360557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO7",
+        "Name": "Tampines",
+        "Postal Code": 529284,
+        "Chain": "3",
+        "condoby100 _COUNT": 116,
+        "lpby100 _COUNT": 28,
+        "hdbby100 _COUNT": 599,
+        "condo": 40.8345,
+        "lp": 9.7,
+        "hdb": 222.7304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9602589,
+          1.354349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO8",
+        "Name": "Pasir Ris",
+        "Postal Code": 519599,
+        "Chain": "3",
+        "condoby100 _COUNT": 55,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 261,
+        "condo": 12.8524,
+        "lp": 2.119,
+        "hdb": 45.5535
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.955139,
+          1.3790849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO9",
+        "Name": "Tampines",
+        "Postal Code": 528833,
+        "Chain": "3",
+        "condoby100 _COUNT": 110,
+        "lpby100 _COUNT": 35,
+        "hdbby100 _COUNT": 452,
+        "condo": 25.1193,
+        "lp": 7.9512,
+        "hdb": 77.5689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.952974,
+          1.342806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO10",
+        "Name": "Singapore",
+        "Postal Code": 519640,
+        "Chain": "3",
+        "condoby100 _COUNT": 86,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 465,
+        "condo": 16.7785,
+        "lp": 1.269,
+        "hdb": 87.8606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9519752,
+          1.3742925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO11",
+        "Name": "Pasir Ris",
+        "Postal Code": 518457,
+        "Chain": "3",
+        "condoby100 _COUNT": 84,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 465,
+        "condo": 16.4119,
+        "lp": 1.269,
+        "hdb": 90.4773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.950162,
+          1.372567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO12",
+        "Name": "Tampines",
+        "Postal Code": 529731,
+        "Chain": "3",
+        "condoby100 _COUNT": 63,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 773,
+        "condo": 9.8867,
+        "lp": 1,
+        "hdb": 93.8875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.947788,
+          1.34906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO13",
+        "Name": "Tampines",
+        "Postal Code": 529510,
+        "Chain": "3",
+        "condoby100 _COUNT": 35,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 827,
+        "condo": 3.1327,
+        "lp": 0,
+        "hdb": 76.4344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.945245,
+          1.3526609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO14",
+        "Name": "Tampines",
+        "Postal Code": 520513,
+        "Chain": "3",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 802,
+        "condo": 2.9315,
+        "lp": 0,
+        "hdb": 75.3216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944362,
+          1.353731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO15",
+        "Name": "Tampines",
+        "Postal Code": 520512,
+        "Chain": "3",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 791,
+        "condo": 2.8887,
+        "lp": 0,
+        "hdb": 76.8474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9433789,
+          1.353496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO16",
+        "Name": "Pasir Ris",
+        "Postal Code": 519498,
+        "Chain": "3",
+        "condoby100 _COUNT": 83,
+        "lpby100 _COUNT": 24,
+        "hdbby100 _COUNT": 387,
+        "condo": 52.3524,
+        "lp": 19.8524,
+        "hdb": 260.5857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.94271,
+          1.378252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO17",
+        "Name": "Tampines",
+        "Postal Code": 529705,
+        "Chain": "3",
+        "condoby100 _COUNT": 48,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 650,
+        "condo": 11.8871,
+        "lp": 0,
+        "hdb": 140.8462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935731,
+          1.348878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO18",
+        "Name": "Tampines",
+        "Postal Code": 529757,
+        "Chain": "3",
+        "condoby100 _COUNT": 65,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 521,
+        "condo": 26.2745,
+        "lp": 0,
+        "hdb": 165.9114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932462,
+          1.345555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO19",
+        "Name": "Singapore",
+        "Postal Code": 467360,
+        "Chain": "3",
+        "condoby100 _COUNT": 72,
+        "lpby100 _COUNT": 91,
+        "hdbby100 _COUNT": 384,
+        "condo": 8.7271,
+        "lp": 11.5556,
+        "hdb": 45.0018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9293739,
+          1.3246591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO20",
+        "Name": "Bedok",
+        "Postal Code": 460539,
+        "Chain": "3",
+        "condoby100 _COUNT": 67,
+        "lpby100 _COUNT": 53,
+        "hdbby100 _COUNT": 482,
+        "condo": 16.6091,
+        "lp": 10.0829,
+        "hdb": 106.0768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.925109,
+          1.331305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO21",
+        "Name": "Bedok",
+        "Postal Code": 455871,
+        "Chain": "3",
+        "condoby100 _COUNT": 116,
+        "lpby100 _COUNT": 97,
+        "hdbby100 _COUNT": 5,
+        "condo": 51.5564,
+        "lp": 40.837,
+        "hdb": 2.3333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92325,
+          1.312606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO22",
+        "Name": "Bedok",
+        "Postal Code": 470744,
+        "Chain": "3",
+        "condoby100 _COUNT": 72,
+        "lpby100 _COUNT": 21,
+        "hdbby100 _COUNT": 375,
+        "condo": 36.1651,
+        "lp": 5.6373,
+        "hdb": 151.3363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.921607,
+          1.337464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO23",
+        "Name": "Bedok",
+        "Postal Code": 470632,
+        "Chain": "3",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 41,
+        "hdbby100 _COUNT": 402,
+        "condo": 11.069,
+        "lp": 15.7833,
+        "hdb": 164.994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91397,
+          1.332034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO24",
+        "Name": "Punggol",
+        "Postal Code": 828815,
+        "Chain": "3",
+        "condoby100 _COUNT": 51,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 749,
+        "condo": 11.9714,
+        "lp": 0.1429,
+        "hdb": 195.4593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.913677,
+          1.393473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO25",
+        "Name": "Marine Parade",
+        "Postal Code": 449876,
+        "Chain": "3",
+        "condoby100 _COUNT": 67,
+        "lpby100 _COUNT": 27,
+        "hdbby100 _COUNT": 131,
+        "condo": 32.8333,
+        "lp": 14.8333,
+        "hdb": 62.5833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91338,
+          1.301206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO26",
+        "Name": "Katong",
+        "Postal Code": 449408,
+        "Chain": "3",
+        "condoby100 _COUNT": 97,
+        "lpby100 _COUNT": 40,
+        "hdbby100 _COUNT": 171,
+        "condo": 29.9,
+        "lp": 12.3667,
+        "hdb": 51.9166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906223,
+          1.301845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO27",
+        "Name": "Sentul Crescent",
+        "Postal Code": 828654,
+        "Chain": "3",
+        "condoby100 _COUNT": 20,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 269,
+        "condo": 5.7,
+        "lp": 0.25,
+        "hdb": 80.9833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9057438,
+          1.4100532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO28",
+        "Name": "Sengkang",
+        "Postal Code": 545082,
+        "Chain": "3",
+        "condoby100 _COUNT": 89,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 995,
+        "condo": 14.7794,
+        "lp": 0.7302,
+        "hdb": 159.1518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904984,
+          1.392002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO29",
+        "Name": "Punggol Central",
+        "Postal Code": 828761,
+        "Chain": "3",
+        "condoby100 _COUNT": 47,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 480,
+        "condo": 12.0397,
+        "lp": 0.25,
+        "hdb": 118.2904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9023237,
+          1.4063962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO30",
+        "Name": "Sengkang",
+        "Postal Code": 540118,
+        "Chain": "3",
+        "condoby100 _COUNT": 88,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 816,
+        "condo": 19.8575,
+        "lp": 0.254,
+        "hdb": 154.8769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.901579,
+          1.385427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO31",
+        "Name": "Sengkang",
+        "Postal Code": 545078,
+        "Chain": "3",
+        "condoby100 _COUNT": 46,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 927,
+        "condo": 6.4984,
+        "lp": 0.454,
+        "hdb": 149.6154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO32",
+        "Name": "Hougang",
+        "Postal Code": 538766,
+        "Chain": "3",
+        "condoby100 _COUNT": 81,
+        "lpby100 _COUNT": 24,
+        "hdbby100 _COUNT": 727,
+        "condo": 18.7417,
+        "lp": 4.2278,
+        "hdb": 131.8709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893938,
+          1.372629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO33",
+        "Name": "Geylang",
+        "Postal Code": 409051,
+        "Chain": "3",
+        "condoby100 _COUNT": 76,
+        "lpby100 _COUNT": 30,
+        "hdbby100 _COUNT": 313,
+        "condo": 11.5309,
+        "lp": 4.7036,
+        "hdb": 56.5262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8926112,
+          1.318938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO34",
+        "Name": "Hougang",
+        "Postal Code": 538846,
+        "Chain": "3",
+        "condoby100 _COUNT": 23,
+        "lpby100 _COUNT": 43,
+        "hdbby100 _COUNT": 181,
+        "condo": 9.3333,
+        "lp": 26.3333,
+        "hdb": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.889993,
+          1.349386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO35",
+        "Name": "Hougang",
+        "Postal Code": 530684,
+        "Chain": "3",
+        "condoby100 _COUNT": 31,
+        "lpby100 _COUNT": 45,
+        "hdbby100 _COUNT": 732,
+        "condo": 7.75,
+        "lp": 11.6611,
+        "hdb": 156.5221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886822,
+          1.373235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO36",
+        "Name": "Sengkang",
+        "Postal Code": 544964,
+        "Chain": "3",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 636,
+        "condo": 11.6,
+        "lp": 3.5333,
+        "hdb": 314.5642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886691,
+          1.396759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO37",
+        "Name": "Hougang",
+        "Postal Code": 530208,
+        "Chain": "3",
+        "condoby100 _COUNT": 91,
+        "lpby100 _COUNT": 102,
+        "hdbby100 _COUNT": 278,
+        "condo": 36.2821,
+        "lp": 37.95,
+        "hdb": 107.9511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886685,
+          1.358844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO38",
+        "Name": "Geylang",
+        "Postal Code": 380113,
+        "Chain": "3",
+        "condoby100 _COUNT": 54,
+        "lpby100 _COUNT": 20,
+        "hdbby100 _COUNT": 371,
+        "condo": 22.1024,
+        "lp": 7.6679,
+        "hdb": 193.6881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886013,
+          1.320532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO39",
+        "Name": "Kallang",
+        "Postal Code": 397801,
+        "Chain": "3",
+        "condoby100 _COUNT": 106,
+        "lpby100 _COUNT": 15,
+        "hdbby100 _COUNT": 134,
+        "condo": 35.425,
+        "lp": 7.5,
+        "hdb": 47.2762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88157,
+          1.305581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO40",
+        "Name": "Hougang",
+        "Postal Code": 538692,
+        "Chain": "3",
+        "condoby100 _COUNT": 26,
+        "lpby100 _COUNT": 39,
+        "hdbby100 _COUNT": 673,
+        "condo": 9.7833,
+        "lp": 15.8444,
+        "hdb": 223.2364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879482,
+          1.376022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO41",
+        "Name": "Sengkang West Avenue",
+        "Postal Code": 797653,
+        "Chain": "3",
+        "condoby100 _COUNT": 27,
+        "lpby100 _COUNT": 26,
+        "hdbby100 _COUNT": 472,
+        "condo": 12.25,
+        "lp": 12.4167,
+        "hdb": 209.9166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8760842,
+          1.3913691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO42",
+        "Name": "Serangoon",
+        "Postal Code": 556083,
+        "Chain": "3",
+        "condoby100 _COUNT": 84,
+        "lpby100 _COUNT": 100,
+        "hdbby100 _COUNT": 337,
+        "condo": 15.7369,
+        "lp": 19.2428,
+        "hdb": 57.9367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO43",
+        "Name": "Serangoon",
+        "Postal Code": 550267,
+        "Chain": "3",
+        "condoby100 _COUNT": 82,
+        "lpby100 _COUNT": 109,
+        "hdbby100 _COUNT": 348,
+        "condo": 17.2035,
+        "lp": 24.3762,
+        "hdb": 65.3177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870925,
+          1.353246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO44",
+        "Name": "Lorong Chuan",
+        "Postal Code": 629117,
+        "Chain": "3",
+        "condoby100 _COUNT": 40,
+        "lpby100 _COUNT": 140,
+        "hdbby100 _COUNT": 231,
+        "condo": 20.6524,
+        "lp": 90.8048,
+        "hdb": 131.0809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8681874,
+          1.3624665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO45",
+        "Name": "Toa Payoh",
+        "Postal Code": 350148,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 35,
+        "hdbby100 _COUNT": 280,
+        "condo": 20.9167,
+        "lp": 17.5833,
+        "hdb": 112.0333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.867766,
+          1.332627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO46",
+        "Name": "Singapore",
+        "Postal Code": 18954,
+        "Chain": "3",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8653491,
+          1.2827245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO47",
+        "Name": "Jellicoe Road",
+        "Postal Code": 208767,
+        "Chain": "3",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 183,
+        "condo": 4.5242,
+        "lp": 0,
+        "hdb": 28.8153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8626534,
+          1.3078779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO48",
+        "Name": "Kallang",
+        "Postal Code": 330022,
+        "Chain": "3",
+        "condoby100 _COUNT": 84,
+        "lpby100 _COUNT": 10,
+        "hdbby100 _COUNT": 370,
+        "condo": 17.8786,
+        "lp": 3.1357,
+        "hdb": 117.967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861592,
+          1.318003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO49",
+        "Name": "Downtown Core",
+        "Postal Code": 38983,
+        "Chain": "3",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 112,
+        "condo": 2.5863,
+        "lp": 0,
+        "hdb": 10.444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.858967,
+          1.295968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO50",
+        "Name": "Downtown Core",
+        "Postal Code": 39594,
+        "Chain": "3",
+        "condoby100 _COUNT": 2,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 43,
+        "condo": 0.2037,
+        "lp": 0,
+        "hdb": 3.2794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857422,
+          1.290989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO51",
+        "Name": "Kallang",
+        "Postal Code": 208539,
+        "Chain": "3",
+        "condoby100 _COUNT": 64,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 270,
+        "condo": 9.4152,
+        "lp": 1.1286,
+        "hdb": 34.4475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85662,
+          1.311403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO52",
+        "Name": "Ang Mo Kio",
+        "Postal Code": 560448,
+        "Chain": "3",
+        "condoby100 _COUNT": 9,
+        "lpby100 _COUNT": 28,
+        "hdbby100 _COUNT": 697,
+        "condo": 2.9444,
+        "lp": 16.8333,
+        "hdb": 291.5039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856308,
+          1.367516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO53",
+        "Name": "Downtown Core",
+        "Postal Code": 188024,
+        "Chain": "3",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 158,
+        "condo": 0.9426,
+        "lp": 0.0556,
+        "hdb": 9.6322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8552009,
+          1.299617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO54",
+        "Name": "Rochor",
+        "Postal Code": 188426,
+        "Chain": "3",
+        "condoby100 _COUNT": 23,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 172,
+        "condo": 1.4557,
+        "lp": 0.0556,
+        "hdb": 11.0389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855007,
+          1.301204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO55",
+        "Name": "Toa Payoh",
+        "Postal Code": 319387,
+        "Chain": "3",
+        "condoby100 _COUNT": 91,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 619,
+        "condo": 15.2671,
+        "lp": 0.9491,
+        "hdb": 106.0413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854256,
+          1.329911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO56",
+        "Name": "Downtown Core",
+        "Postal Code": 188721,
+        "Chain": "3",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 80,
+        "condo": 0.7624,
+        "lp": 0,
+        "hdb": 4.029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.853543,
+          1.295896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO57",
+        "Name": "Downtown Core",
+        "Postal Code": 179103,
+        "Chain": "3",
+        "condoby100 _COUNT": 9,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 46,
+        "condo": 0.51,
+        "lp": 0,
+        "hdb": 2.0895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO58",
+        "Name": "Downtown Core",
+        "Postal Code": 48621,
+        "Chain": "3",
+        "condoby100 _COUNT": 10,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 54,
+        "condo": 0.9765,
+        "lp": 0,
+        "hdb": 4.2791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852123,
+          1.283847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO59",
+        "Name": "Toa Payoh",
+        "Postal Code": 319515,
+        "Chain": "3",
+        "condoby100 _COUNT": 57,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 712,
+        "condo": 6.7398,
+        "lp": 0.2991,
+        "hdb": 134.2449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851244,
+          1.334143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO60",
+        "Name": "Novena",
+        "Postal Code": 329783,
+        "Chain": "3",
+        "condoby100 _COUNT": 124,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 424,
+        "condo": 16.6527,
+        "lp": 1.467,
+        "hdb": 55.9943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85119,
+          1.324989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO61",
+        "Name": "Rochor",
+        "Postal Code": 188307,
+        "Chain": "3",
+        "condoby100 _COUNT": 34,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 101,
+        "condo": 2.1898,
+        "lp": 0.0556,
+        "hdb": 5.5263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849458,
+          1.300626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO62",
+        "Name": "Downtown Core",
+        "Postal Code": 48508,
+        "Chain": "3",
+        "condoby100 _COUNT": 15,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 93,
+        "condo": 1.5708,
+        "lp": 0,
+        "hdb": 9.4001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848893,
+          1.285611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO63",
+        "Name": "Bishan",
+        "Postal Code": 579837,
+        "Chain": "3",
+        "condoby100 _COUNT": 56,
+        "lpby100 _COUNT": 16,
+        "hdbby100 _COUNT": 434,
+        "condo": 10.644,
+        "lp": 2.9048,
+        "hdb": 79.8706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848794,
+          1.349971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO64",
+        "Name": "Toa Payoh",
+        "Postal Code": 310490,
+        "Chain": "3",
+        "condoby100 _COUNT": 71,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 649,
+        "condo": 7.5309,
+        "lp": 0.2991,
+        "hdb": 81.6898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848532,
+          1.332516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO65",
+        "Name": "Ang Mo Kio",
+        "Postal Code": 569922,
+        "Chain": "3",
+        "condoby100 _COUNT": 24,
+        "lpby100 _COUNT": 15,
+        "hdbby100 _COUNT": 753,
+        "condo": 3.4393,
+        "lp": 2.4659,
+        "hdb": 100.5392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847207,
+          1.369149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO66",
+        "Name": "Toa Payoh",
+        "Postal Code": 310109,
+        "Chain": "3",
+        "condoby100 _COUNT": 43,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 520,
+        "condo": 9.0008,
+        "lp": 1.0714,
+        "hdb": 95.2129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846346,
+          1.341253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO67",
+        "Name": "Downtown Core",
+        "Postal Code": 79909,
+        "Chain": "3",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 154,
+        "condo": 2.5063,
+        "lp": 0.5,
+        "hdb": 29.4672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84624,
+          1.27518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO68",
+        "Name": "Museum",
+        "Postal Code": 238839,
+        "Chain": "3",
+        "condoby100 _COUNT": 63,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 50,
+        "condo": 4.7656,
+        "lp": 0.3216,
+        "hdb": 2.6736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845411,
+          1.301016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO69",
+        "Name": "Ang Mo Kio",
+        "Postal Code": 567740,
+        "Chain": "3",
+        "condoby100 _COUNT": 43,
+        "lpby100 _COUNT": 19,
+        "hdbby100 _COUNT": 684,
+        "condo": 10.2059,
+        "lp": 4.1659,
+        "hdb": 109.0535
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844726,
+          1.3724289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO70",
+        "Name": "Ang Mo Kio",
+        "Postal Code": 569981,
+        "Chain": "3",
+        "condoby100 _COUNT": 38,
+        "lpby100 _COUNT": 35,
+        "hdbby100 _COUNT": 542,
+        "condo": 16.3361,
+        "lp": 21.4595,
+        "hdb": 110.4456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8435614,
+          1.3634088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO71",
+        "Name": "Novena",
+        "Postal Code": 307591,
+        "Chain": "3",
+        "condoby100 _COUNT": 108,
+        "lpby100 _COUNT": 22,
+        "hdbby100 _COUNT": 98,
+        "condo": 18.5197,
+        "lp": 3.9274,
+        "hdb": 18.491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843491,
+          1.317711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO72",
+        "Name": "Outram",
+        "Postal Code": 59432,
+        "Chain": "3",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 220,
+        "condo": 5.2368,
+        "lp": 0,
+        "hdb": 34.0953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843311,
+          1.283639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO73",
+        "Name": "Outram",
+        "Postal Code": 59432,
+        "Chain": "3",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 220,
+        "condo": 5.2368,
+        "lp": 0,
+        "hdb": 34.0953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843311,
+          1.283639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO74",
+        "Name": "Outram",
+        "Postal Code": 59108,
+        "Chain": "3",
+        "condoby100 _COUNT": 36,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 226,
+        "condo": 6.2563,
+        "lp": 0,
+        "hdb": 35.2953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8425309,
+          1.284095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO75",
+        "Name": "Yishun",
+        "Postal Code": 769027,
+        "Chain": "3",
+        "condoby100 _COUNT": 43,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 692,
+        "condo": 20.0175,
+        "lp": 0,
+        "hdb": 313.4945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84065,
+          1.423708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO76",
+        "Name": "Ang Mo Kio",
+        "Postal Code": 560163,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 55,
+        "hdbby100 _COUNT": 529,
+        "condo": 18.2555,
+        "lp": 23.8944,
+        "hdb": 155.7162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838189,
+          1.373542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO77",
+        "Name": "Yishun",
+        "Postal Code": 760293,
+        "Chain": "3",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 696,
+        "condo": 7.8393,
+        "lp": 0,
+        "hdb": 271.3186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837894,
+          1.436379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO78",
+        "Name": "Yishun",
+        "Postal Code": 769098,
+        "Chain": "3",
+        "condoby100 _COUNT": 57,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 801,
+        "condo": 7.4353,
+        "lp": 0,
+        "hdb": 108.0437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO79",
+        "Name": "Orchard",
+        "Postal Code": 237978,
+        "Chain": "3",
+        "condoby100 _COUNT": 123,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 0,
+        "condo": 11.721,
+        "lp": 0.443,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835327,
+          1.3010489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO80",
+        "Name": "Yishun",
+        "Postal Code": 760846,
+        "Chain": "3",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 413,
+        "condo": 7.3449,
+        "lp": 0,
+        "hdb": 143.0922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834277,
+          1.416772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO81",
+        "Name": "Orchard",
+        "Postal Code": 238863,
+        "Chain": "3",
+        "condoby100 _COUNT": 108,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.7333,
+        "lp": 0.9847,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833751,
+          1.30436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO82",
+        "Name": "Orchard",
+        "Postal Code": 238863,
+        "Chain": "3",
+        "condoby100 _COUNT": 108,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.7333,
+        "lp": 0.9847,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833751,
+          1.30436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO83",
+        "Name": "Singapore River",
+        "Postal Code": 237994,
+        "Chain": "3",
+        "condoby100 _COUNT": 122,
+        "lpby100 _COUNT": 8,
+        "hdbby100 _COUNT": 223,
+        "condo": 25.0028,
+        "lp": 2.4241,
+        "hdb": 54.4714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832088,
+          1.293984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO84",
+        "Name": "Orchard",
+        "Postal Code": 238868,
+        "Chain": "3",
+        "condoby100 _COUNT": 102,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 0,
+        "condo": 12.6498,
+        "lp": 1.8458,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831573,
+          1.305487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO85",
+        "Name": "Yishun",
+        "Postal Code": 768677,
+        "Chain": "3",
+        "condoby100 _COUNT": 76,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 597,
+        "condo": 15.6615,
+        "lp": 3.6667,
+        "hdb": 88.3259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829386,
+          1.431141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO86",
+        "Name": "Orchard",
+        "Postal Code": 238884,
+        "Chain": "3",
+        "condoby100 _COUNT": 99,
+        "lpby100 _COUNT": 14,
+        "hdbby100 _COUNT": 0,
+        "condo": 28.3495,
+        "lp": 5.4686,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.828639,
+          1.306339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO87",
+        "Name": "Bukit Merah",
+        "Postal Code": 168732,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 641,
+        "condo": 12.4024,
+        "lp": 0.8333,
+        "hdb": 166.338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827342,
+          1.286145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO88",
+        "Name": "Tanglin",
+        "Postal Code": 259727,
+        "Chain": "3",
+        "condoby100 _COUNT": 64,
+        "lpby100 _COUNT": 31,
+        "hdbby100 _COUNT": 0,
+        "condo": 46.1548,
+        "lp": 24.1262,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82731,
+          1.31975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO89",
+        "Name": "Mandai",
+        "Postal Code": 758382,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 8,
+        "hdbby100 _COUNT": 388,
+        "condo": 9.4671,
+        "lp": 2.6667,
+        "hdb": 60.4736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826071,
+          1.426914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO90",
+        "Name": "Bukit Merah",
+        "Postal Code": 98585,
+        "Chain": "3",
+        "condoby100 _COUNT": 10,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 53,
+        "condo": 3.1199,
+        "lp": 0.0909,
+        "hdb": 23.0333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.823012,
+          1.264613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO91",
+        "Name": "Southern Islands",
+        "Postal Code": 98138,
+        "Chain": "3",
+        "condoby100 _COUNT": 6,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 0,
+        "condo": 1.3485,
+        "lp": 0.0909,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8222229,
+          1.257681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO92",
+        "Name": "Bukit Merah",
+        "Postal Code": 99253,
+        "Chain": "3",
+        "condoby100 _COUNT": 16,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 29,
+        "condo": 4.4866,
+        "lp": 0.0909,
+        "hdb": 5.9833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819304,
+          1.264553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO93",
+        "Name": "Sembawang",
+        "Postal Code": 757713,
+        "Chain": "3",
+        "condoby100 _COUNT": 12,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 497,
+        "condo": 3.1667,
+        "lp": 1,
+        "hdb": 155.3332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8191873,
+          1.4483845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO94",
+        "Name": "Bukit Merah",
+        "Postal Code": 159460,
+        "Chain": "3",
+        "condoby100 _COUNT": 29,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 541,
+        "condo": 10.4333,
+        "lp": 0,
+        "hdb": 191.1833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818279,
+          1.283653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO95",
+        "Name": "Sentosa",
+        "Postal Code": 99010,
+        "Chain": "3",
+        "condoby100 _COUNT": 4,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 0,
+        "condo": 0.6818,
+        "lp": 0.5909,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8175808,
+          1.2520497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO96",
+        "Name": "Tanglin",
+        "Postal Code": 258748,
+        "Chain": "3",
+        "condoby100 _COUNT": 42,
+        "lpby100 _COUNT": 56,
+        "hdbby100 _COUNT": 12,
+        "condo": 37,
+        "lp": 53.5,
+        "hdb": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81374,
+          1.322372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO97",
+        "Name": "Queenstown",
+        "Postal Code": 149053,
+        "Chain": "3",
+        "condoby100 _COUNT": 36,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 306,
+        "condo": 10.2,
+        "lp": 0.6667,
+        "hdb": 88.2999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803474,
+          1.287777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO98",
+        "Name": "Queenstown",
+        "Postal Code": 149066,
+        "Chain": "3",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 351,
+        "condo": 14.3,
+        "lp": 11.1667,
+        "hdb": 131.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80208,
+          1.304187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO99",
+        "Name": "Woodlands",
+        "Postal Code": 731678,
+        "Chain": "3",
+        "condoby100 _COUNT": 36,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 979,
+        "condo": 7.3833,
+        "lp": 0,
+        "hdb": 205.6801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.801801,
+          1.440493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO100",
+        "Name": "Queenstown",
+        "Postal Code": 119963,
+        "Chain": "3",
+        "condoby100 _COUNT": 20,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 97,
+        "condo": 6.3333,
+        "lp": 3,
+        "hdb": 29.6166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.801381,
+          1.273673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO101",
+        "Name": "Woodlands",
+        "Postal Code": 730768,
+        "Chain": "3",
+        "condoby100 _COUNT": 32,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 687,
+        "condo": 7.4167,
+        "lp": 0,
+        "hdb": 138.4932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.798159,
+          1.445962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO102",
+        "Name": "Queenstown",
+        "Postal Code": 138588,
+        "Chain": "3",
+        "condoby100 _COUNT": 27,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 391,
+        "condo": 8.0857,
+        "lp": 5.6667,
+        "hdb": 99.6594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910604,
+          1.3066305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO103",
+        "Name": "Woodlands",
+        "Postal Code": 730900,
+        "Chain": "3",
+        "condoby100 _COUNT": 25,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 628,
+        "condo": 7.35,
+        "lp": 0.4,
+        "hdb": 124.2368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787195,
+          1.435152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO104",
+        "Name": "Woodlands",
+        "Postal Code": 738099,
+        "Chain": "3",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 613,
+        "condo": 4.55,
+        "lp": 0.4,
+        "hdb": 105.0785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO105",
+        "Name": "Queenstown",
+        "Postal Code": 139651,
+        "Chain": "3",
+        "condoby100 _COUNT": 57,
+        "lpby100 _COUNT": 18,
+        "hdbby100 _COUNT": 187,
+        "condo": 18.5047,
+        "lp": 8.7167,
+        "hdb": 41.3547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78126,
+          1.309126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO106",
+        "Name": "Bukit Timah",
+        "Postal Code": 588177,
+        "Chain": "3",
+        "condoby100 _COUNT": 67,
+        "lpby100 _COUNT": 47,
+        "hdbby100 _COUNT": 32,
+        "condo": 67,
+        "lp": 47,
+        "hdb": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776131,
+          1.34234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO107",
+        "Name": "Queenstown",
+        "Postal Code": 117587,
+        "Chain": "3",
+        "condoby100 _COUNT": 38,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 184,
+        "condo": 8.0337,
+        "lp": 0.3929,
+        "hdb": 38.7416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773631,
+          1.301756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO108",
+        "Name": "Bukit Panjang",
+        "Postal Code": 670445,
+        "Chain": "3",
+        "condoby100 _COUNT": 52,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 834,
+        "condo": 12.8619,
+        "lp": 0.125,
+        "hdb": 254.294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770558,
+          1.383802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO109",
+        "Name": "Clementi",
+        "Postal Code": 120451,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 23,
+        "hdbby100 _COUNT": 468,
+        "condo": 10.5147,
+        "lp": 5.3929,
+        "hdb": 117.5558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765669,
+          1.312638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO110",
+        "Name": "Clementi",
+        "Postal Code": 129588,
+        "Chain": "3",
+        "condoby100 _COUNT": 53,
+        "lpby100 _COUNT": 29,
+        "hdbby100 _COUNT": 453,
+        "condo": 15.9194,
+        "lp": 8.2262,
+        "hdb": 129.8273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7643563,
+          1.3150108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO111",
+        "Name": "Bukit Panjang",
+        "Postal Code": 677743,
+        "Chain": "3",
+        "condoby100 _COUNT": 71,
+        "lpby100 _COUNT": 12,
+        "hdbby100 _COUNT": 866,
+        "condo": 10.444,
+        "lp": 1.9107,
+        "hdb": 125.4987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7641529,
+          1.379962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO112",
+        "Name": "Queenstown",
+        "Postal Code": 126844,
+        "Chain": "3",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 176,
+        "condo": 11.0667,
+        "lp": 1.8333,
+        "hdb": 53.1833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763581,
+          1.2978289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO113",
+        "Name": "Singapore",
+        "Postal Code": 678278,
+        "Chain": "3",
+        "condoby100 _COUNT": 74,
+        "lpby100 _COUNT": 18,
+        "hdbby100 _COUNT": 773,
+        "condo": 11.594,
+        "lp": 3.8274,
+        "hdb": 108.8678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7634273,
+          1.378446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO114",
+        "Name": "Choa Chu Kang",
+        "Postal Code": 688892,
+        "Chain": "3",
+        "condoby100 _COUNT": 69,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 569,
+        "condo": 9.8405,
+        "lp": 1.6167,
+        "hdb": 137.1317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751861,
+          1.381435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO115",
+        "Name": "Clementi",
+        "Postal Code": 609971,
+        "Chain": "3",
+        "condoby100 _COUNT": 22,
+        "lpby100 _COUNT": 15,
+        "hdbby100 _COUNT": 56,
+        "condo": 18.825,
+        "lp": 15,
+        "hdb": 21.1419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751848,
+          1.328173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO116",
+        "Name": "Bukit Batok",
+        "Postal Code": 650374,
+        "Chain": "3",
+        "condoby100 _COUNT": 75,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 377,
+        "condo": 38.0833,
+        "lp": 5,
+        "hdb": 153.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.750591,
+          1.358103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO117",
+        "Name": "Bukit Batok",
+        "Postal Code": 650632,
+        "Chain": "3",
+        "condoby100 _COUNT": 46,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 571,
+        "condo": 13.0833,
+        "lp": 0.5,
+        "hdb": 166.1789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.750512,
+          1.349353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO118",
+        "Name": "Choa Chu Kang",
+        "Postal Code": 680818,
+        "Chain": "3",
+        "condoby100 _COUNT": 65,
+        "lpby100 _COUNT": 8,
+        "hdbby100 _COUNT": 516,
+        "condo": 11.252,
+        "lp": 3.1167,
+        "hdb": 124.8253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7488393,
+          1.3778808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO119",
+        "Name": "Jurong East",
+        "Postal Code": 609601,
+        "Chain": "3",
+        "condoby100 _COUNT": 11,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 251,
+        "condo": 1.4019,
+        "lp": 0,
+        "hdb": 24.6984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO120",
+        "Name": "Choa Chu Kang",
+        "Postal Code": 689812,
+        "Chain": "3",
+        "condoby100 _COUNT": 89,
+        "lpby100 _COUNT": 16,
+        "hdbby100 _COUNT": 611,
+        "condo": 10.8127,
+        "lp": 1.9302,
+        "hdb": 83.1943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745046,
+          1.384848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO121",
+        "Name": "Choa Chu Kang",
+        "Postal Code": 689810,
+        "Chain": "3",
+        "condoby100 _COUNT": 87,
+        "lpby100 _COUNT": 17,
+        "hdbby100 _COUNT": 573,
+        "condo": 10.4794,
+        "lp": 2.0397,
+        "hdb": 77.6217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744252,
+          1.385659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO122",
+        "Name": "Bukit Batok",
+        "Postal Code": 650152,
+        "Chain": "3",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 517,
+        "condo": 9.7262,
+        "lp": 0,
+        "hdb": 138.8008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744198,
+          1.348204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO123",
+        "Name": "Jurong East",
+        "Postal Code": 608549,
+        "Chain": "3",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 249,
+        "condo": 1.3985,
+        "lp": 0,
+        "hdb": 20.9582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7436599,
+          1.3330671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO124",
+        "Name": "Choa Chu Kang",
+        "Postal Code": 680533,
+        "Chain": "3",
+        "condoby100 _COUNT": 72,
+        "lpby100 _COUNT": 22,
+        "hdbby100 _COUNT": 505,
+        "condo": 10.9238,
+        "lp": 3.2897,
+        "hdb": 91.4591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.743131,
+          1.392015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO125",
+        "Name": "Jurong East",
+        "Postal Code": 609731,
+        "Chain": "3",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 289,
+        "condo": 1.8592,
+        "lp": 0,
+        "hdb": 26.8575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740277,
+          1.33352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO126",
+        "Name": "Jurong East",
+        "Postal Code": 600256,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 563,
+        "condo": 15.4918,
+        "lp": 0,
+        "hdb": 147.8169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7381879,
+          1.344076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO127",
+        "Name": "Jurong East",
+        "Postal Code": 609081,
+        "Chain": "3",
+        "condoby100 _COUNT": 21,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 170,
+        "condo": 4.0258,
+        "lp": 0,
+        "hdb": 18.276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.736132,
+          1.333194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO128",
+        "Name": "Jurong West",
+        "Postal Code": 649520,
+        "Chain": "3",
+        "condoby100 _COUNT": 42,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 576,
+        "condo": 14.4167,
+        "lp": 0.25,
+        "hdb": 191.2499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725433,
+          1.350295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO129",
+        "Name": "Jurong West",
+        "Postal Code": 618640,
+        "Chain": "3",
+        "condoby100 _COUNT": 24,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 141,
+        "condo": 11.6667,
+        "lp": 1,
+        "hdb": 70.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72498,
+          1.325641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO130",
+        "Name": "Jurong West",
+        "Postal Code": 649296,
+        "Chain": "3",
+        "condoby100 _COUNT": 49,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 742,
+        "condo": 20.2492,
+        "lp": 0.25,
+        "hdb": 270.4726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.718015,
+          1.3485959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO131",
+        "Name": "Boon Lay Way",
+        "Postal Code": 649849,
+        "Chain": "3",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 669,
+        "condo": 1.9543,
+        "lp": 0,
+        "hdb": 75.2859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7086677,
+          1.3391576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO132",
+        "Name": "Jurong West",
+        "Postal Code": 648886,
+        "Chain": "3",
+        "condoby100 _COUNT": 15,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 801,
+        "condo": 1.538,
+        "lp": 0.0833,
+        "hdb": 74.6215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.706464,
+          1.339874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO133",
+        "Name": "Jurong West",
+        "Postal Code": 640762,
+        "Chain": "3",
+        "condoby100 _COUNT": 18,
+        "lpby100 _COUNT": 17,
+        "hdbby100 _COUNT": 641,
+        "condo": 4.9403,
+        "lp": 4.9611,
+        "hdb": 148.7646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.698195,
+          1.349156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO134",
+        "Name": "Jurong West",
+        "Postal Code": 640638,
+        "Chain": "3",
+        "condoby100 _COUNT": 26,
+        "lpby100 _COUNT": 29,
+        "hdbby100 _COUNT": 986,
+        "condo": 7.5554,
+        "lp": 10.9611,
+        "hdb": 208.6017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.696988,
+          1.34152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MCDO135",
+        "Name": "Western Water Catchment",
+        "Postal Code": 637331,
+        "Chain": "3",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 24,
+        "condo": 0,
+        "lp": 0.5,
+        "hdb": 6.1667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.680099,
+          1.34715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo1",
+        "Name": "53 Ang Mo Kio Avenue 3 #02-03, S 569933",
+        "Postal Code": 569933,
+        "Chain": "4",
+        "condoby100 _COUNT": 24,
+        "lpby100 _COUNT": 14,
+        "hdbby100 _COUNT": 772,
+        "condo": 3.9393,
+        "lp": 2.2492,
+        "hdb": 117.1229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848956,
+          1.369092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo2",
+        "Name": "311 New Upper Changi Road #01-71/72, SÊ467360",
+        "Postal Code": 467360,
+        "Chain": "4",
+        "condoby100 _COUNT": 73,
+        "lpby100 _COUNT": 89,
+        "hdbby100 _COUNT": 408,
+        "condo": 8.9271,
+        "lp": 10.9223,
+        "hdb": 49.9518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929666,
+          1.325052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo3",
+        "Name": "201 Victoria Street #04-07, S188067",
+        "Postal Code": 188067,
+        "Chain": "4",
+        "condoby100 _COUNT": 19,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 138,
+        "condo": 1.0523,
+        "lp": 0.0556,
+        "hdb": 7.6336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854221,
+          1.299634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo4",
+        "Name": "1 Jurong West Central 2Ê#02-20E, S 648886",
+        "Postal Code": 648886,
+        "Chain": "4",
+        "condoby100 _COUNT": 12,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 815,
+        "condo": 1.0702,
+        "lp": 0.1944,
+        "hdb": 76.3247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.705407,
+          1.339346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo5",
+        "Name": "238 Thomson Road #03-11/12, S 307685",
+        "Postal Code": 307685,
+        "Chain": "4",
+        "condoby100 _COUNT": 117,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 114,
+        "condo": 16.2085,
+        "lp": 4.2281,
+        "hdb": 12.5038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843432,
+          1.320219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo6",
+        "Name": "290 Orchard Road #B1-35/36, S 238859",
+        "Postal Code": 238859,
+        "Chain": "4",
+        "condoby100 _COUNT": 101,
+        "lpby100 _COUNT": 8,
+        "hdbby100 _COUNT": 0,
+        "condo": 7.8354,
+        "lp": 0.568,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835536,
+          1.303587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo7",
+        "Name": "33 Sengkang West Avenue, #03-22 and #03-K4/K5\rS797653",
+        "Postal Code": 797653,
+        "Chain": "4",
+        "condoby100 _COUNT": 26,
+        "lpby100 _COUNT": 26,
+        "hdbby100 _COUNT": 475,
+        "condo": 11.9167,
+        "lp": 12.4167,
+        "hdb": 213.3333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876015,
+          1.391522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo8",
+        "Name": "30 Sembawang Drive #03-15/16, S757713",
+        "Postal Code": 757713,
+        "Chain": "4",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 487,
+        "condo": 4,
+        "lp": 2.1667,
+        "hdb": 149.3332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819775,
+          1.448136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo9",
+        "Name": "10 Tampines Central 1 #04-11, S 529536",
+        "Postal Code": 529536,
+        "Chain": "4",
+        "condoby100 _COUNT": 35,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 798,
+        "condo": 3.9065,
+        "lp": 0,
+        "hdb": 79.4639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.945105,
+          1.353994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo10",
+        "Name": "1 Harbourfront Walk #02-116, S 098585",
+        "Postal Code": 98585,
+        "Chain": "4",
+        "condoby100 _COUNT": 6,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 22,
+        "condo": 0.7532,
+        "lp": 0.0909,
+        "hdb": 3.8833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.823006,
+          1.263602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "FishCo11",
+        "Name": "83 Punggol Central #B1-18, S 828761",
+        "Postal Code": 828761,
+        "Chain": "4",
+        "condoby100 _COUNT": 45,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 456,
+        "condo": 11.7286,
+        "lp": 0.25,
+        "hdb": 113.7896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90252,
+          1.406784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS1",
+        "Name": "23 Serangoon Central, #B1-45 NEX, Singapore 556083",
+        "Postal Code": 556083,
+        "Chain": "5",
+        "condoby100 _COUNT": 87,
+        "lpby100 _COUNT": 87,
+        "hdbby100 _COUNT": 335,
+        "condo": 18.4535,
+        "lp": 15.7095,
+        "hdb": 60.9867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873075,
+          1.349856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS2",
+        "Name": "90 Hougang Ave 10, #B1-27/28 Hougang Mall, Singapore 538766",
+        "Postal Code": 538766,
+        "Chain": "5",
+        "condoby100 _COUNT": 81,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 709,
+        "condo": 18.775,
+        "lp": 4.4278,
+        "hdb": 130.3495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893987,
+          1.372255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS3",
+        "Name": "676 Woodlands Drive 71 #01-12, Singapore 730676",
+        "Postal Code": 730676,
+        "Chain": "5",
+        "condoby100 _COUNT": 35,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 1019,
+        "condo": 6.9667,
+        "lp": 0,
+        "hdb": 196.5011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.800607,
+          1.440048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS4",
+        "Name": "9 Bishan Place, #01-19A Junction 8 Shopping Centre, Singapore 579837",
+        "Postal Code": 579837,
+        "Chain": "5",
+        "condoby100 _COUNT": 53,
+        "lpby100 _COUNT": 18,
+        "hdbby100 _COUNT": 426,
+        "condo": 9.3107,
+        "lp": 3.5714,
+        "hdb": 75.3749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848327,
+          1.350106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS5",
+        "Name": "21 Choa Chu Kang North 6, #01-36/38/39 Yew Tee Point, Singapore 689578",
+        "Postal Code": 689578,
+        "Chain": "5",
+        "condoby100 _COUNT": 76,
+        "lpby100 _COUNT": 21,
+        "hdbby100 _COUNT": 676,
+        "condo": 25.2929,
+        "lp": 3.3373,
+        "hdb": 204.9341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74691,
+          1.397205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS6",
+        "Name": "930 Yishun Ave 2, #01-14/15 Northpoint Shopping Centre, Singapore 769098",
+        "Postal Code": 769098,
+        "Chain": "5",
+        "condoby100 _COUNT": 56,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 806,
+        "condo": 7.2353,
+        "lp": 0,
+        "hdb": 110.8104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835654,
+          1.430108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS7",
+        "Name": "11 Rivervale Crescent, #01-28A Rivervale Mall, Singapore 545082",
+        "Postal Code": 545082,
+        "Chain": "5",
+        "condoby100 _COUNT": 88,
+        "lpby100 _COUNT": 4,
+        "hdbby100 _COUNT": 989,
+        "condo": 14.5294,
+        "lp": 0.7302,
+        "hdb": 156.1196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904772,
+          1.391927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS8",
+        "Name": "251 Victoria Street, Bugis Village, Singapore 188035",
+        "Postal Code": 188035,
+        "Chain": "5",
+        "condoby100 _COUNT": 21,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 174,
+        "condo": 1.3176,
+        "lp": 0.0556,
+        "hdb": 11.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855389,
+          1.300511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS9",
+        "Name": "1 HarbourFront Walk, #02-94 VivoCity, Singapore 098585",
+        "Postal Code": 98585,
+        "Chain": "5",
+        "condoby100 _COUNT": 8,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 26,
+        "condo": 1.1199,
+        "lp": 0.0909,
+        "hdb": 4.2833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.822029,
+          1.263712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS10",
+        "Name": "10 Eunos Road 8, #01-149 Singapore Post Centre, Singapore 408600",
+        "Postal Code": 408600,
+        "Chain": "5",
+        "condoby100 _COUNT": 74,
+        "lpby100 _COUNT": 33,
+        "hdbby100 _COUNT": 274,
+        "condo": 13.6202,
+        "lp": 7.2107,
+        "hdb": 59.6047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894686,
+          1.318755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS11",
+        "Name": "799 New Upper Changi Road, #01-02/03, Singapore 467351",
+        "Postal Code": 467351,
+        "Chain": "5",
+        "condoby100 _COUNT": 80,
+        "lpby100 _COUNT": 83,
+        "hdbby100 _COUNT": 430,
+        "condo": 13.7489,
+        "lp": 13.7897,
+        "hdb": 67.5847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932327,
+          1.32488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS12",
+        "Name": "3 Simei Street 6, #01-32 East Point Mall, Singapore 528833",
+        "Postal Code": 528833,
+        "Chain": "5",
+        "condoby100 _COUNT": 109,
+        "lpby100 _COUNT": 35,
+        "hdbby100 _COUNT": 447,
+        "condo": 24.6193,
+        "lp": 7.9512,
+        "hdb": 75.7912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95315,
+          1.342914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS13",
+        "Name": "18 Tai Seng Street, #01-31/31 & K7, Singapore 539775",
+        "Postal Code": 539775,
+        "Chain": "5",
+        "condoby100 _COUNT": 10,
+        "lpby100 _COUNT": 45,
+        "hdbby100 _COUNT": 238,
+        "condo": 9,
+        "lp": 37.5,
+        "hdb": 209.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888794,
+          1.336207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS14",
+        "Name": "4 Tampines Central 5, #04-23/24/25 Tampines Mall, Singapore 529510",
+        "Postal Code": 529510,
+        "Chain": "5",
+        "condoby100 _COUNT": 34,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 829,
+        "condo": 2.9899,
+        "lp": 0,
+        "hdb": 74.575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944788,
+          1.352617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS15",
+        "Name": "5 Stadium Walk, #01-41A/42 Leisure Park Kallang, Singapore 397693",
+        "Postal Code": 397693,
+        "Chain": "5",
+        "condoby100 _COUNT": 74,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 77,
+        "condo": 18.4333,
+        "lp": 0,
+        "hdb": 18.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876439,
+          1.30235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS16",
+        "Name": "11 Tanjong Katong Road, #01-52/53 OneKM, Singapore 437157",
+        "Postal Code": 437157,
+        "Chain": "5",
+        "condoby100 _COUNT": 86,
+        "lpby100 _COUNT": 49,
+        "hdbby100 _COUNT": 221,
+        "condo": 15.8976,
+        "lp": 11.0702,
+        "hdb": 36.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894743,
+          1.314791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS17",
+        "Name": "Blk 88 Tanglin Halt Road, #01-09, Singapore 141088",
+        "Postal Code": 141088,
+        "Chain": "5",
+        "condoby100 _COUNT": 19,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 403,
+        "condo": 6.7,
+        "lp": 1.1667,
+        "hdb": 138.5666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.798656,
+          1.301584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS18",
+        "Name": "21 Choa Chu Kang Ave 4, #B1-12/13 Lot One, Singapore 689812",
+        "Postal Code": 689812,
+        "Chain": "5",
+        "condoby100 _COUNT": 88,
+        "lpby100 _COUNT": 16,
+        "hdbby100 _COUNT": 603,
+        "condo": 10.6127,
+        "lp": 1.9302,
+        "hdb": 81.6348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744789,
+          1.384974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS19",
+        "Name": "500 Dover Road, Foodcourt 3, Singapore 139651",
+        "Postal Code": 139651,
+        "Chain": "5",
+        "condoby100 _COUNT": 61,
+        "lpby100 _COUNT": 14,
+        "hdbby100 _COUNT": 148,
+        "condo": 15.2111,
+        "lp": 4.2167,
+        "hdb": 28.4309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778368,
+          1.308914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS20",
+        "Name": "17 Petir Road, #B1-57/58/59 Hillion Mall, Singapore 678278",
+        "Postal Code": 678278,
+        "Chain": "5",
+        "condoby100 _COUNT": 75,
+        "lpby100 _COUNT": 19,
+        "hdbby100 _COUNT": 764,
+        "condo": 12.094,
+        "lp": 4.3274,
+        "hdb": 107.3868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763627,
+          1.378222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS21",
+        "Name": "1 Vista Exchange Green, #02-28 The Star Vista, Singapore 138617",
+        "Postal Code": 138617,
+        "Chain": "5",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 321,
+        "condo": 7.4881,
+        "lp": 2.55,
+        "hdb": 74.288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788138,
+          1.307001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS22",
+        "Name": "154 West Coast Road, #B1-49 West Coast Plaza, Singapore 127371",
+        "Postal Code": 127371,
+        "Chain": "5",
+        "condoby100 _COUNT": 51,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 302,
+        "condo": 10.8313,
+        "lp": 1.8095,
+        "hdb": 63.0892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765691,
+          1.303765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS23",
+        "Name": "63 Jurong West Central 3, #B1-56 Jurong Point Shopping Centre, Singapore 648886",
+        "Postal Code": 648886,
+        "Chain": "5",
+        "condoby100 _COUNT": 12,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 794,
+        "condo": 1.0702,
+        "lp": 0.1944,
+        "hdb": 74.9933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.705286,
+          1.33886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS24",
+        "Name": "3 Gateway Drive, #B1-10 Westgate, Singapore 608532",
+        "Postal Code": 608532,
+        "Chain": "5",
+        "condoby100 _COUNT": 19,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 325,
+        "condo": 2.7092,
+        "lp": 0,
+        "hdb": 32.7821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742791,
+          1.334517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "LJS25",
+        "Name": "76 Nanyang Drive, N2.1-01-05, Singapore 637331",
+        "Postal Code": 637331,
+        "Chain": "5",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 24,
+        "condo": 0,
+        "lp": 0.5,
+        "hdb": 6.1667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.680149,
+          1.34715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man1",
+        "Name": "1 Woodlands Square, Causeway Point #02-34/K1, Singapore 738099",
+        "Postal Code": 738099,
+        "Chain": "6",
+        "condoby100 _COUNT": 18,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 606,
+        "condo": 3.4333,
+        "lp": 0.4,
+        "hdb": 102.7654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786319,
+          1.436207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man2",
+        "Name": "80 Airport Boulevard Singapore Changi Airport Terminal 1 #03-18 Viewing Mall Central, Level 3 Singapore 819642",
+        "Postal Code": 819642,
+        "Chain": "6",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.990052,
+          1.362161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man3",
+        "Name": "5 Changi Business Central Park 1, Changi City Point #01-39/40, Singapore 486038",
+        "Postal Code": 486038,
+        "Chain": "6",
+        "condoby100 _COUNT": 25,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 43,
+        "condo": 5.4845,
+        "lp": 2.4512,
+        "hdb": 7.9452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.962801,
+          1.333941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man4",
+        "Name": "180 Kitchener Road, City Square Mall #04-12/13, Singapore 208539",
+        "Postal Code": 208539,
+        "Chain": "6",
+        "condoby100 _COUNT": 64,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 279,
+        "condo": 9.8985,
+        "lp": 1.1286,
+        "hdb": 38.1777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857066,
+          1.311687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man5",
+        "Name": "90 Hougang Avenue 10, Hougang Mall #04-10/10A Singapore 538766",
+        "Postal Code": 538766,
+        "Chain": "6",
+        "condoby100 _COUNT": 81,
+        "lpby100 _COUNT": 25,
+        "hdbby100 _COUNT": 728,
+        "condo": 18.7417,
+        "lp": 4.4278,
+        "hdb": 131.8209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893839,
+          1.372577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man6",
+        "Name": "2 Jurong East Central 1, JCube #04-10/21, Singapore 609731",
+        "Postal Code": 609731,
+        "Chain": "6",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 273,
+        "condo": 1.8592,
+        "lp": 0,
+        "hdb": 25.392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740231,
+          1.333206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man7",
+        "Name": "9 Bishan Place, Junction 8 Shopping Centre #01-22/30, Singapore 579837",
+        "Postal Code": 579837,
+        "Chain": "6",
+        "condoby100 _COUNT": 52,
+        "lpby100 _COUNT": 19,
+        "hdbby100 _COUNT": 438,
+        "condo": 9.2512,
+        "lp": 3.9048,
+        "hdb": 83.3559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848623,
+          1.350683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man8",
+        "Name": "1 Jurong West Central 2, Jurong Point Shopping Centre, #01-32, Singapore 648886",
+        "Postal Code": 648886,
+        "Chain": "6",
+        "condoby100 _COUNT": 15,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 811,
+        "condo": 1.538,
+        "lp": 0.0833,
+        "hdb": 75.7755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.706365,
+          1.339946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man9",
+        "Name": "6 Raffles Boulevard, Marina Square #02-183, Singapore 039594",
+        "Postal Code": 39594,
+        "Chain": "6",
+        "condoby100 _COUNT": 3,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 54,
+        "condo": 0.2662,
+        "lp": 0,
+        "hdb": 3.4416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856235,
+          1.291852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man10",
+        "Name": "930 Yishun Avenue 2 Northpoint #02-08 Singapore 769098",
+        "Postal Code": 769098,
+        "Chain": "6",
+        "condoby100 _COUNT": 55,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 800,
+        "condo": 7.152,
+        "lp": 0,
+        "hdb": 110.3139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835973,
+          1.429402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man11",
+        "Name": "68 Orchard Road, Plaza Singapura #06-07, Singapore 238839",
+        "Postal Code": 238839,
+        "Chain": "6",
+        "condoby100 _COUNT": 69,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 42,
+        "condo": 4.7643,
+        "lp": 0.3216,
+        "hdb": 2.0986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84487,
+          1.300679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man12",
+        "Name": "3 Temasek Boulevard, Suntec City Mall #B1-134, Singapore 038983",
+        "Postal Code": 38983,
+        "Chain": "6",
+        "condoby100 _COUNT": 11,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 107,
+        "condo": 2.2613,
+        "lp": 0,
+        "hdb": 9.7959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.858702,
+          1.295201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Man13",
+        "Name": "1 Vista Exchange Green, The Star Vista #B1-10, Singapore 138617",
+        "Postal Code": 138617,
+        "Chain": "6",
+        "condoby100 _COUNT": 33,
+        "lpby100 _COUNT": 9,
+        "hdbby100 _COUNT": 321,
+        "condo": 7.4881,
+        "lp": 2.55,
+        "hdb": 74.4785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788291,
+          1.307037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS1",
+        "Name": "30 Raffles Place #B1-03 Chevron House 048622",
+        "Postal Code": 48622,
+        "Chain": "7",
+        "condoby100 _COUNT": 10,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 54,
+        "condo": 0.9765,
+        "lp": 0,
+        "hdb": 4.2791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852001,
+          1.284223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS2",
+        "Name": "68 Orchard Road #B1-01 Plaza Singapura 238839",
+        "Postal Code": 238839,
+        "Chain": "7",
+        "condoby100 _COUNT": 67,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 44,
+        "condo": 4.631,
+        "lp": 0.3216,
+        "hdb": 2.2236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845018,
+          1.300653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS3",
+        "Name": "51 Telok Ayer Street #01-07 048441",
+        "Postal Code": 48441,
+        "Chain": "7",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 114,
+        "condo": 1.9428,
+        "lp": 0,
+        "hdb": 12.2572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849148,
+          1.282993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS4",
+        "Name": "9 Raffles Boulevard, #01-99/100 Millenia Walk, 039596",
+        "Postal Code": 39596,
+        "Chain": "7",
+        "condoby100 _COUNT": 11,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 88,
+        "condo": 2.2613,
+        "lp": 0,
+        "hdb": 8.3587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859521,
+          1.293802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS5",
+        "Name": "1 Maritime Square #01-95/96/97 HarbourFront Centre, 099253",
+        "Postal Code": 99253,
+        "Chain": "7",
+        "condoby100 _COUNT": 11,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 17,
+        "condo": 1.9866,
+        "lp": 0.0909,
+        "hdb": 2.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82055,
+          1.263667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS6",
+        "Name": "8 Grange Road #01-06 Cathay Cineleisure Orchard 239695",
+        "Postal Code": 239695,
+        "Chain": "7",
+        "condoby100 _COUNT": 118,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.5575,
+        "lp": 0.343,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836161,
+          1.301667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS7",
+        "Name": "238 Thomson Road #01-54/55 Novena Square 307683",
+        "Postal Code": 307683,
+        "Chain": "7",
+        "condoby100 _COUNT": 116,
+        "lpby100 _COUNT": 23,
+        "hdbby100 _COUNT": 120,
+        "condo": 16.7823,
+        "lp": 4.019,
+        "hdb": 15.2238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844213,
+          1.319307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS8",
+        "Name": "100 Tras Street #01-12 100 AM 079027",
+        "Postal Code": 79027,
+        "Chain": "7",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 169,
+        "condo": 4.4063,
+        "lp": 1.5,
+        "hdb": 49.5858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843556,
+          1.274827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS9",
+        "Name": "1 Selegie Road #01-07 PoMo 188306",
+        "Postal Code": 188306,
+        "Chain": "7",
+        "condoby100 _COUNT": 35,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 98,
+        "condo": 2.2523,
+        "lp": 0.0556,
+        "hdb": 5.2258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849446,
+          1.300229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS10",
+        "Name": "12 Marina Boulevard #01-03, Marina Bay Financial Tower 3 018982",
+        "Postal Code": 18982,
+        "Chain": "7",
+        "condoby100 _COUNT": 8,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 28,
+        "condo": 1.015,
+        "lp": 0,
+        "hdb": 1.915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854181,
+          1.279202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS11",
+        "Name": "302 Tiong Bahru Road B1-139, Tiong Bahru Plaza 168732",
+        "Postal Code": 168732,
+        "Chain": "7",
+        "condoby100 _COUNT": 51,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 633,
+        "condo": 13.119,
+        "lp": 1.5,
+        "hdb": 159.6547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827041,
+          1.286669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS12",
+        "Name": "176 Orchard Road #B1-06, The Centrepoint 238843",
+        "Postal Code": 238843,
+        "Chain": "7",
+        "condoby100 _COUNT": 98,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 0,
+        "condo": 7.8348,
+        "lp": 0.3216,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839945,
+          1.301494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS13",
+        "Name": "252 North Bridge Road #B1-38 Raffles City Shopping Centre 179103",
+        "Postal Code": 179103,
+        "Chain": "7",
+        "condoby100 _COUNT": 8,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 48,
+        "condo": 0.4574,
+        "lp": 0,
+        "hdb": 2.2108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.853159,
+          1.293711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS14",
+        "Name": "Orchard Road #B2-32 Takashimaya Shopping Centre 238872",
+        "Postal Code": 238872,
+        "Chain": "7",
+        "condoby100 _COUNT": 108,
+        "lpby100 _COUNT": 10,
+        "hdbby100 _COUNT": 0,
+        "condo": 8.6045,
+        "lp": 0.818,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8346,
+          1.302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS15",
+        "Name": "5 Straits View #B2-45 018936",
+        "Postal Code": 18936,
+        "Chain": "7",
+        "condoby100 _COUNT": 14,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 46,
+        "condo": 2.1035,
+        "lp": 0,
+        "hdb": 3.6897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852604,
+          1.278329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS16",
+        "Name": "9 Bishan Place #01-19 Junction 8 Shopping Centre 579837",
+        "Postal Code": 579837,
+        "Chain": "7",
+        "condoby100 _COUNT": 53,
+        "lpby100 _COUNT": 18,
+        "hdbby100 _COUNT": 427,
+        "condo": 9.3107,
+        "lp": 3.5714,
+        "hdb": 75.6249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848345,
+          1.350177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS17",
+        "Name": "1 Woodlands Square #01-13 Causeway Point 738099",
+        "Postal Code": 738099,
+        "Chain": "7",
+        "condoby100 _COUNT": 23,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 608,
+        "condo": 5.35,
+        "lp": 0.9,
+        "hdb": 115.0694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.785688,
+          1.435639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS18",
+        "Name": "Blk 490 Toa Payoh Lor 6 #01-13 (HDB Hub) 310490",
+        "Postal Code": 310490,
+        "Chain": "7",
+        "condoby100 _COUNT": 70,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 642,
+        "condo": 7.4309,
+        "lp": 0.2991,
+        "hdb": 80.7041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848377,
+          1.332586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS19",
+        "Name": "53 Ang Mo Kio Ave 3 #01-33 AMK Hub 569933",
+        "Postal Code": 569933,
+        "Chain": "7",
+        "condoby100 _COUNT": 23,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 758,
+        "condo": 3.2726,
+        "lp": 1.9659,
+        "hdb": 102.1725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847854,
+          1.369112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS20",
+        "Name": "23 Serangoon Central, Nex #B2-02/03/04 556083",
+        "Postal Code": 556083,
+        "Chain": "7",
+        "condoby100 _COUNT": 84,
+        "lpby100 _COUNT": 102,
+        "hdbby100 _COUNT": 344,
+        "condo": 15.6535,
+        "lp": 19.6095,
+        "hdb": 59.6034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871757,
+          1.350977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS21",
+        "Name": "1 Sengkang Square #01-09 Compass One 545078",
+        "Postal Code": 545078,
+        "Chain": "7",
+        "condoby100 _COUNT": 47,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 938,
+        "condo": 6.8317,
+        "lp": 0.454,
+        "hdb": 150.6471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895042,
+          1.392451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS22",
+        "Name": "930 Yishun Avenue 2 #01-19, Northpoint 769098",
+        "Postal Code": 769098,
+        "Chain": "7",
+        "condoby100 _COUNT": 53,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 812,
+        "condo": 6.702,
+        "lp": 0,
+        "hdb": 110.6104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835844,
+          1.42974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS23",
+        "Name": "676 Woodlands Drive 71 #01-09 Kampung Admiralty 730676",
+        "Postal Code": 730676,
+        "Chain": "7",
+        "condoby100 _COUNT": 34,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 1008,
+        "condo": 6.3833,
+        "lp": 0,
+        "hdb": 194.5392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80092,
+          1.440211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS24",
+        "Name": "80 Marine Parade Road #B1-18 Parkway Parade 449269",
+        "Postal Code": 449269,
+        "Chain": "7",
+        "condoby100 _COUNT": 96,
+        "lpby100 _COUNT": 39,
+        "hdbby100 _COUNT": 164,
+        "condo": 29.4,
+        "lp": 11.8667,
+        "hdb": 48.4166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905549,
+          1.301688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS25",
+        "Name": "4 Tampines Central 5 #B1-K1 Tampines Mall 529510",
+        "Postal Code": 529510,
+        "Chain": "7",
+        "condoby100 _COUNT": 34,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 833,
+        "condo": 2.9899,
+        "lp": 0,
+        "hdb": 75.2814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944927,
+          1.352385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS26",
+        "Name": "311 New Upper Changi Road #B2-29 Bedok Mall 467360",
+        "Postal Code": 467360,
+        "Chain": "7",
+        "condoby100 _COUNT": 72,
+        "lpby100 _COUNT": 88,
+        "hdbby100 _COUNT": 392,
+        "condo": 8.7271,
+        "lp": 10.7223,
+        "hdb": 46.4756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929575,
+          1.324566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS27",
+        "Name": "60 Paya Lebar Road #01-72/73/K4/K5 Paya Lebar Square 409051",
+        "Postal Code": 409051,
+        "Chain": "7",
+        "condoby100 _COUNT": 75,
+        "lpby100 _COUNT": 33,
+        "hdbby100 _COUNT": 303,
+        "condo": 11.1976,
+        "lp": 5.3536,
+        "hdb": 51.8595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892646,
+          1.318472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS28",
+        "Name": "1 Pasir Ris Central Street 3 #02-24 & #02-K1 White Sands 518457",
+        "Postal Code": 518457,
+        "Chain": "7",
+        "condoby100 _COUNT": 84,
+        "lpby100 _COUNT": 7,
+        "hdbby100 _COUNT": 448,
+        "condo": 16.4119,
+        "lp": 1.269,
+        "hdb": 88.713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949671,
+          1.37254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS29",
+        "Name": "1 Jurong West Central 2 #01-30A Jurong Point Shopping Centre 648886",
+        "Postal Code": 648886,
+        "Chain": "7",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 792,
+        "condo": 1.1952,
+        "lp": 0.0833,
+        "hdb": 72.5493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.706405,
+          1.339723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS30",
+        "Name": "21 Choa Chu Kang Ave 4 #B1-K7/K8 LOT ONE Shopper's Mall 689812",
+        "Postal Code": 689812,
+        "Chain": "7",
+        "condoby100 _COUNT": 90,
+        "lpby100 _COUNT": 17,
+        "hdbby100 _COUNT": 600,
+        "condo": 10.9555,
+        "lp": 2.0397,
+        "hdb": 79.3884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744877,
+          1.385393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS31",
+        "Name": "50 Jurong Gateway #05-03 Jem 608549",
+        "Postal Code": 608549,
+        "Chain": "7",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 262,
+        "condo": 1.1318,
+        "lp": 0,
+        "hdb": 22.0484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.743546,
+          1.333405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS32",
+        "Name": "2 Jurong East Central #01-08 JCube 609731",
+        "Postal Code": 609731,
+        "Chain": "7",
+        "condoby100 _COUNT": 17,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 275,
+        "condo": 1.8592,
+        "lp": 0,
+        "hdb": 25.4484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7404,
+          1.333036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "MOS33",
+        "Name": "1 Fusionopolis Way #01-05 Fusionopolis One 138632",
+        "Postal Code": 138632,
+        "Chain": "7",
+        "condoby100 _COUNT": 11,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 89,
+        "condo": 2.2881,
+        "lp": 0.5,
+        "hdb": 18.6547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787621,
+          1.299091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye1",
+        "Name": "313 Orchard Road, #B2 Ð 15/19, Singapore 238895",
+        "Postal Code": 238895,
+        "Chain": "8",
+        "condoby100 _COUNT": 112,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 0,
+        "condo": 9.412,
+        "lp": 0.2661,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838631,
+          1.301167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye2",
+        "Name": "61, Ang Mo Kio Ave 8, #01-01, Singapore 569814",
+        "Postal Code": 569814,
+        "Chain": "8",
+        "condoby100 _COUNT": 28,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 709,
+        "condo": 5.8726,
+        "lp": 3.9063,
+        "hdb": 96.586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847896,
+          1.371829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye3",
+        "Name": "229 Victoria Street, Singapore 188023",
+        "Postal Code": 188023,
+        "Chain": "8",
+        "condoby100 _COUNT": 18,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 151,
+        "condo": 0.9898,
+        "lp": 0.0556,
+        "hdb": 8.683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854836,
+          1.29988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye4",
+        "Name": "180 Kitchener Road, #02-39/40, Singapore 208539",
+        "Postal Code": 208539,
+        "Chain": "8",
+        "condoby100 _COUNT": 61,
+        "lpby100 _COUNT": 6,
+        "hdbby100 _COUNT": 262,
+        "condo": 8.8794,
+        "lp": 0.9857,
+        "hdb": 32.921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856535,
+          1.311049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye5",
+        "Name": "1 Joo Koon Circle, #01 Ð 50 Fairprice Hub, Singapore 629117",
+        "Postal Code": 629117,
+        "Chain": "8",
+        "condoby100 _COUNT": 0,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 0,
+        "condo": 0,
+        "lp": 0,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678461,
+          1.326199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye6",
+        "Name": "2 Jurong East St 21, #01-31/32, Singapore 609601",
+        "Postal Code": 609601,
+        "Chain": "8",
+        "condoby100 _COUNT": 13,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 262,
+        "condo": 1.8186,
+        "lp": 0,
+        "hdb": 27.0989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746787,
+          1.335089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye7",
+        "Name": "1 Jurong West Central 2, #03-48, Singapore 648886",
+        "Postal Code": 648886,
+        "Chain": "8",
+        "condoby100 _COUNT": 12,
+        "lpby100 _COUNT": 2,
+        "hdbby100 _COUNT": 792,
+        "condo": 1.0702,
+        "lp": 0.1944,
+        "hdb": 73.7136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.705391,
+          1.3389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye8",
+        "Name": "1 Stadium Place, #02-02, Singapore 397628",
+        "Postal Code": 397628,
+        "Chain": "8",
+        "condoby100 _COUNT": 64,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 81,
+        "condo": 19.1,
+        "lp": 0,
+        "hdb": 24.4111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.872862,
+          1.303232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye9",
+        "Name": "437, Orchard Road, #B1-19, Singapore 238878",
+        "Postal Code": 238878,
+        "Chain": "8",
+        "condoby100 _COUNT": 113,
+        "lpby100 _COUNT": 13,
+        "hdbby100 _COUNT": 0,
+        "condo": 12.0876,
+        "lp": 1.6513,
+        "hdb": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832326,
+          1.303355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye10",
+        "Name": "10, Sinaran Drive, Square 2, #01 -04/05, Singapore 307506",
+        "Postal Code": 307506,
+        "Chain": "8",
+        "condoby100 _COUNT": 126,
+        "lpby100 _COUNT": 23,
+        "hdbby100 _COUNT": 140,
+        "condo": 17.0832,
+        "lp": 3.771,
+        "hdb": 15.6845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844202,
+          1.320775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye11",
+        "Name": "2, Handy Road, Cathay #B1-21/22, Singapore 229233",
+        "Postal Code": 229233,
+        "Chain": "8",
+        "condoby100 _COUNT": 42,
+        "lpby100 _COUNT": 1,
+        "hdbby100 _COUNT": 71,
+        "condo": 2.7785,
+        "lp": 0.0556,
+        "hdb": 3.5233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847639,
+          1.299595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "Popeye12",
+        "Name": "Block 480 Toa Payoh Lorong 6, #B1-01, Singapore 310480",
+        "Postal Code": 310480,
+        "Chain": "8",
+        "condoby100 _COUNT": 72,
+        "lpby100 _COUNT": 3,
+        "hdbby100 _COUNT": 643,
+        "condo": 7.6975,
+        "lp": 0.2991,
+        "hdb": 80.2589
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848567,
+          1.332294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "AFC1",
+        "Name": "810 Geylang Rd, City Plaza #02-99, Singapore 409286",
+        "Postal Code": 409286,
+        "Chain": "9",
+        "condoby100 _COUNT": 90,
+        "lpby100 _COUNT": 45,
+        "hdbby100 _COUNT": 236,
+        "condo": 16.6643,
+        "lp": 9.5369,
+        "hdb": 38.5262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89346,
+          1.314842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "AFC2",
+        "Name": "21 Hougang Street 51, Hougang Green Shopping Mall #01-49, Singapore 538719",
+        "Postal Code": 538719,
+        "Chain": "9",
+        "condoby100 _COUNT": 45,
+        "lpby100 _COUNT": 11,
+        "hdbby100 _COUNT": 743,
+        "condo": 17.7179,
+        "lp": 2.5111,
+        "hdb": 174.2507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887857,
+          1.379757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "AFC3",
+        "Name": "51 Yishun Central 1, Yishun 10 Cinema Cineplex #01-04, Singapore 768794",
+        "Postal Code": 768794,
+        "Chain": "9",
+        "condoby100 _COUNT": 53,
+        "lpby100 _COUNT": 0,
+        "hdbby100 _COUNT": 815,
+        "condo": 6.8925,
+        "lp": 0,
+        "hdb": 116.8223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836306,
+          1.429958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "AFC4",
+        "Name": "215 Bedok North Street 1 #01-83, Singapore 460215",
+        "Postal Code": 460215,
+        "Chain": "9",
+        "condoby100 _COUNT": 71,
+        "lpby100 _COUNT": 70,
+        "hdbby100 _COUNT": 488,
+        "condo": 15.3671,
+        "lp": 13.4858,
+        "hdb": 117.2736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933687,
+          1.325972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "AFC5",
+        "Name": "60 Jurong West Central 3, The Frontier Community Club #01-05, Singapore 648346",
+        "Postal Code": 648346,
+        "Chain": "9",
+        "condoby100 _COUNT": 16,
+        "lpby100 _COUNT": 5,
+        "hdbby100 _COUNT": 891,
+        "condo": 1.9464,
+        "lp": 0.7944,
+        "hdb": 95.2882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.704248,
+          1.340244
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "fields": {
+      "Chain": {
+        "lookup": {
+          "1": "KFC",
+          "2": "Burger King",
+          "3": "McDonald's",
+          "4": "Fish & Co",
+          "5": "Long John Silver",
+          "6": "Manhattan",
+          "7": "MOS Burger",
+          "8": "Popeye",
+          "9": "Arnolds"
+        },
+        "name": "Covered Residents of Dwelling Type (In 100)"
+      }
+    },
+    "attribution": "Atrribute",
+    "description": "Chain"
+  }
+}

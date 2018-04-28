@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Style circles with a data-driven property</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+    <style>
+	body { margin:0; padding:0; }
+	#map { position:absolute; top:0; bottom:0; width:100%; }
+	.map-overlay {
+	    position: absolute;
+	    width: 25%;
+	    top: 0;
+	    bottom: 0;
+	    left: 0;
+	    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	    background-color: #fff;
+	    max-height: 100%;
+	    overflow: hidden;
+	}
+
+	.map-overlay fieldset {
+	    display: none;
+	    background: #ddd;
+	    border: none;
+	    padding: 10px;
+	    margin: 0;
+	}
+
+	.map-overlay input {
+	    display: block;
+	    border: none;
+	    width: 100%;
+	    border-radius: 3px;
+	    padding: 10px;
+	    margin: 0;
+	}
+
+	.map-overlay .listing {
+	    overflow: auto;
+	    max-height: 100%;
+	}
+
+	.map-overlay .listing > * {
+	    display: block;
+	    padding: 5px 10px;
+	    margin: 0;
+	}
+
+	.map-overlay .listing a {
+	    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	    color: #404;
+	    text-decoration: none;
+	}
+
+	.map-overlay .listing a:last-child {
+	    border: none;
+	}
+
+	.map-overlay .listing a:hover {
+	    background: #f0f0f0;
+	}
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiaGFuZHNvbWVmcm9zdHkiLCJhIjoiY2pnMXd2eDRsMTd3NzJxbzc4a2Njb2hyaiJ9.Jd43RWz8RjVLke0WB4ig3g';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v9',
+    zoom: 11,
+    center: [103.8198, 1.3521]
+});
+
+map.on('load', function () {
+
+    map.addLayer({
+        'id': 'population',
+        'type': 'circle',
+        'source': {
+            type: 'vector',
+            url: 'mapbox://handsomefrosty.cjg1zia7m0n8933l57yqtg3zg-4j5bb'
+        },
+        'source-layer': 'trial',
+        'paint': {
+            // make circles larger as the user zooms from z12 to z22
+            'circle-radius': {
+                'base': 10,
+                'stops': [[12, 6], [22, 180]]
+            },
+            'circle-color': [
+                'match',
+                ['get', 'Chain'],
+                'KFC', '#388074',
+                'McDonald\'s', '#A94A75',
+                'Buger King', '#8EB951',
+                'Fish & Co', '#C98658',
+                'Long John Silver', '#E3AAC4',
+                'Manhattan', '#8EBEB6',
+                'MOS Burger', '#D8F0B4',
+                'Popeye', '#FFD9BF',
+                'Arnold\'s Fried Chicken', '#CE7DA2',
+                /* other */ '#000000'
+            ]
+        }
+    });
+});
+
+var restaurants = [];
+    
+var popup = new mapboxgl.Popup({
+    closeButton: false
+});
+
+var filterEl = document.getElementById('feature-filter');
+var listingEl = document.getElementById('feature-listing');
+
+function renderListings(features) {
+    // Clear any existing listings
+    listingEl.innerHTML = '';
+    if (features.length) {
+        features.forEach(function(feature) {
+            var prop = feature.properties;
+            var item = document.createElement('a');
+            item.target = '_blank';
+            item.textContent = prop.name + ' (' + prop.abbrev + ')';
+            item.addEventListener('mouseover', function() {
+                // Highlight corresponding feature on the map
+                popup.setLngLat(feature.geometry.coordinates)
+                    .setText(feature.properties.name + ' (' + feature.properties.abbrev + ')')
+                    .addTo(map);
+            });
+            listingEl.appendChild(item);
+        });
+
+        // Show the filter input
+        filterEl.parentNode.style.display = 'block';
+
+map.on('mouseenter', 'population', function(e) {
+  	map.getCanvas().style.cursor = 'pointer';
+  	var coordinates = e.features[0].geometry.coordinates.slice();
+  	var description = "<p><strong>" + e.features[0].properties.Chain + "</strong></p>" + "at " + e.features[0].properties.Name
+
+       // Ensure that if the map is zoomed out such that multiple
+       // copies of the feature are visible, the popup appears
+       // over the copy being pointed to.
+       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+           coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+       }
+
+       // Populate the popup and set its coordinates
+       // based on the feature found.
+       popup.setLngLat(coordinates)
+           .setHTML(description)
+           .addTo(map);
+});
+
+
+</script>
+
+</body>
+</html>

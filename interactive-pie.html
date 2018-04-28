@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Presenting The ESD Champion Grace</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="pie-chart.css" /> </head>
+    <style type="text/css">
+      .center {
+        position: absolute;
+        text-align: center;
+        font-size: 18px;
+      }
+    </style>
+<body>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js" charset="utf-8"></script>
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <div class="demo-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
+          <header class="demo-header mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
+            <div class="mdl-layout__header-row">
+              <span class="mdl-layout-title">Presenting the ESD Champion, Grace</span>
+              <div class="mdl-layout-spacer"></div>
+              </div>
+            </div>
+          </header>
+          <div class="demo-ribbon"></div>
+          <main class="demo-main mdl-layout__content">
+            <div class="demo-container mdl-grid">
+              <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
+              <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
+                <h3>Analysis of Singapore Fastfood Chains</h3>
+                <h4>Problem statement</h4>
+                  <p>
+                    Compare and analyse the distribution of fast food chains in Singapore against the population and the corresponding dwelling types (HDB, condominium and landed property) as proxy for income levels to determine the market coverage and the franchising strategy.
+                  </p>
+                <h4>Data collection</h4>
+                  <p>
+                    The geographical location of outlets are collected from the companies’ website, the lat and long are generated using the Google API function. The population by subzone with the dwelling types are obtained from Data.gov.sg. website.
+                  </p>
+                <h4>Data analysis and visualisation</h4>
+                  <p>
+                    To identify the clusters of fast food outlets, we created a heat map showing the distribution of all outlets. The factors that might have resulted in these clusters include:
+                    <ul>
+                      <li>
+                        The proximity to the public transportations, i.e. the outlets are located in the malls and the malls are located beside the MRT stations. The malls act as a concentration points for the outlets.
+                      </li>
+                      <li>
+                        The volume of people moving around in the area. Places such as Changi Airport and business districts have more outlets as the demand would be generally higher.
+                      </li>
+                      <li>
+                        Tourist hot spots. For instance, Singapore Zoo.
+                      </li>
+                    </ul>
+                    Our project focused on the influence of the factor of the population and their corresponding dwelling types on the fast food industry’s landscape. We analysed the correlation between outlets distribution and demographic distribution by dwelling types.
+                    The assumptions adopted in our analysis include:
+                    <ul>
+                      <li>
+                        The volume of people moving around in the area. Places such as Changi Airport and business districts have more outlets as the demand would be generally higher.
+                      </li>
+                      <li>
+                        Tourist hot spots. For instance, Singapore Zoo.
+                      </li>
+                    </ul>
+                    For each dwelling type, we generated corresponding number of random points in the subzones. Each point represents 100 people residing in that area to simulate the population and has a unique id. The reason to divide population by 100 is to shorten the spatial join calculation time in the later step. 
+                  </p>
+                  <p>
+                    Then we created a buffer with the radius of 1km for each point in the population layer, and a new field in it which records the number of outlets located in this buffer. According to our second assumption, people do not have preference for choosing the fast food outlets. Therefore, for a single point, if the total market is 1, all the nearby outlets shares an equal portion of 1 / number of outlets within 1 kmmarket from that point. If there is no nearby outlets, we set the value to be 1. We assigned this weighted value to a new field for all the population points.
+                  </p>
+
+                  <p>
+                    Using the population points, we generated 6 heatmaps. For each dwelling type, there are 2 heatmaps: one is simply the population density whereas the other is the weighted population density with the weight equal to 1 / number of outlets within 1 km.
+                  </p>
+
+                  <p>
+                    The heat maps provide us the basis to analyse the possible customer targeting strategies adopted by the fast food chains. In overall, the HDB population density has the strongest correlation with the distribution of the outlets, followed by condominium and landed property. To maximise revenue, the fast food companies had located their outlets in close proximity to the areas with clusters of HDB. This could be due to the fact that the HDB population is the highest among all the dwelling types, hence it is more worthwhile to invest near the HDB areas. As for the condominium and landed properties, we could reason that people with higher income may prefer more expensive restaurants, therefore there is lesser value in locating the outlets within their residential areas.
+                  </p>
+
+                  <p>
+                    From the weighted population density heat maps, we can identify the areas which are not sufficiently covered, i.e. the ideal locations to set up new outlets. These places are shown in the heat maps as the darker regions.
+                  </p>
+                <h4>Value proposition of our project</h4>
+                  <p>
+                    In the fast food industry, fast food chains often face competition because their products are more homogeneous, in other words, less differentiated and thus can be easily substituted by the other brands. To maximise profit, they need to maximise market coverage and to do so, the location of outlets has to be strategic.
+                  </p>
+                  <p>
+                    Our project could be useful to the fast food chains in analysing the possibilities of market expansion, given the spatial distribution of their competitors as well as their existing outlets. To improve the accuracy of the analysis, other than considering the population distribution, additional parameters such as the size of the outlets and the costs involved needs to be considered to help determine the viability of opening a new outlet at a particular location.
+                  </p>
+                  <p>
+                    In addition, the consideration of the population density by dwelling types could be applied in the customer targeting strategies. Market segmentation strategies such as the design of products and their price determination could make use of the customer types distribution in that particular area. For instance, a fast food chain could set up a new location within an identified landed property area which is not yet sufficiently covered, and place the emphasis on marketing more premium products.
+                  </p>
+
+                <h4> Challenges faced </h4>
+                  <p>
+                    We faced obstacles while implementing the javascript for our interactive map; we wanted to be able to filter by the dwelling types and show the distribution of the corresponding population density, but are unable to do so. If we could manage to create different layers with filtering functions, we would not include static maps in our final product.
+                  </p>
+
+                <h4> Appendix </h4>
+                  <p>
+                    Market coverage of the fast food chains by dwelling types: condominium, landed property and HDB.
+                  </p>
+                  <center>
+                    <img src="graduated-graph.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+                  <p>
+                    Condo Population Density and Fast Food Outlet Locations:
+                  </p>
+                  <center>
+                    <img src="aifinal_condo.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+                  <p>
+                    Weighted Condo Population Density and Fast Food Outlet Locations:
+                  </p>
+                  <center>
+                    <img src="aifinal_condoweighted.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+                  <p>
+                    HDB Population Density and Fast Food Outlet Locations:
+                  </p>
+                  <center>
+                    <img src="aifinal_hdb.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+                  <p>
+                    Weighted HDB Population Density and Fast Food Outlet Locations:
+                  </p>
+                  <center>
+                    <img src="aifinal_hdbweighted.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+                  <p>
+                    Landed Property Population Density and Fast Food Outlet Locations:
+                  </p>
+                  <center>
+                    <img src="aifinal_lp.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+                  <p>
+                    Weighted Landed Property Population Density and Fast Food Outlet Locations:
+                  </p>
+                  <center>
+                    <img src="aifinal_lpweighted.png" alt="Graph" style="max-width:90%; max-height:90%;">
+                  </center>
+
+                <h4> Attached Interactive Map </h4>
+                <p>
+                  We used marker cluster of pie charts to show the percentage of each type of dwelling that is covered in the 1 km range of the fastfood restaurants of different chains. Hover the mouse over the arcs of the pies will show you the estimate number of residents that are covered by the fastfood restaurants. Clicking on the most-zoomed pies will pop you the shop name.
+                </p>
+              </div>
+            </div>
+
+    <div id="container">
+      <div id="map"> 
+      </div>
+    <script>
+        "use strict"
+        var placeholder = -1;
+        var placeholder1 = -1;
+        var placeholder2 = 0;
+        var placeholder3 = 0;
+        var counter = 0;
+        var metadata, geojson, geojsonPath = 'http://frosty.com:8000/buffers.geojson',
+            categoryField = 'Chain', //This is the fieldname for marker category (used in the pie and legend)
+            iconField = 'Chain', //This is the fieldame for marker icon
+            popupFields = ['Chain'], //Popup will display these fields
+            tileServer = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            tileAttribution = 'Map data: <a href="http://openstreetmap.org">OSM</a>',
+            rmax = 30, //Maximum radius for cluster pies
+            markerclusters = L.markerClusterGroup({
+                maxClusterRadius: 2 * rmax,
+                iconCreateFunction: defineClusterIcon //this is where the magic happens
+            }),
+            map = L.map('map').setView(
+                [1.3521, 103.8198], 12);
+        //Add basemap
+        L.tileLayer(tileServer, {
+            attribution: tileAttribution
+        }).addTo(map);
+        //and the empty markercluster layer
+        map.addLayer(markerclusters);
+        //Ready to go, load the geojson
+        d3.json(geojsonPath, function(error, data) {
+            if (!error) {
+                geojson = data;
+                metadata = data.properties;
+                var markers = L.geoJson(geojson, {
+                    pointToLayer: defineFeature,
+                    onEachFeature: defineFeaturePopup
+                });
+                markerclusters.addLayer(markers);
+                map.fitBounds(markers.getBounds());
+                map.attributionControl.addAttribution(metadata.attribution);
+                renderLegend();
+            } else {
+                console.log('Could not load data...');
+            }
+        });
+
+        function defineFeature(feature, latlng) {
+            var strokeWidth = 1, //Set clusterpie stroke width
+                n = Math.round(feature.properties.condo + feature.properties.lp + feature.properties.hdb),
+                r = rmax - 2 * strokeWidth - (n < 10 ? 12 : n < 100 ? 8 : n < 1000 ? 4 : 0), //Calculate clusterpie radius...
+                iconDim = (r + strokeWidth) * 2; //...and divIcon dimensions (leaflet really want to know the size)
+            var condo = feature.properties.condo;
+            var lp = feature.properties.lp;
+            var hdb = feature.properties.hdb;
+            condo = Math.round(condo);
+            lp = Math.round(lp);
+            hdb = Math.round(hdb);
+            var data = [condo, lp, hdb];
+            var myClass = 'marker category-9'; // +' icon-'+iconVal;
+            var myIcon = L.divIcon({
+                className: myClass,
+                iconSize: null
+            });
+            if (condo + hdb + lp > 0) {
+                var html = bakeThePie({
+                        data: data,
+                        valueFunc: function(d) {
+                            return d;
+                        },
+                        strokeWidth: 1,
+                        outerRadius: r,
+                        innerRadius: r - 10,
+                        pieClass: 'cluster-pie',
+                        pieLabel: n,
+                        pieLabelClass: 'marker-cluster-pie-label',
+                        pathClassFunc: function(d) {
+                            placeholder1++;
+                            placeholder1 = placeholder1 % 3;
+                            return "category-" + (placeholder1 + 1)
+                        },
+                        pathTitleFunc: function(d) {
+                            placeholder2++;
+                            placeholder2 = placeholder2 % 3;
+                            if (placeholder2 == 0) {
+                                return "This restaurant covers " + (d.value * 100) + " people from HDB";;
+                            } else if (placeholder2 == 1) {
+                                return "This restaurant covers " + (d.value * 100) + " people from Condo";
+                            } else {
+                                return "This restaurant covers " + (d.value * 100) + " people from Landed Property";
+                            }
+                        }
+                    }), //Create a new divIcon and assign the svg markup to the html property
+                    myIcon = new L.DivIcon({
+                        html: html,
+                        className: 'marker-cluster',
+                        iconSize: new L.Point(iconDim, iconDim)
+                    })
+            }
+            //iconVal = feature.properties[iconField];
+            //var answer = L.marker(latlng, {icon: myIcon});
+            return L.marker(latlng, {
+                icon: myIcon
+            });
+        }
+
+        function defineFeaturePopup(feature, layer) {
+            var props = feature.properties,
+                fields = metadata.fields,
+                popupContent = '';
+            popupFields.map(function(key) {
+                if (props[key]) {
+                    var val = props[key],
+                        label = fields[key].name;
+                    if (fields[key].lookup) {
+                        val = fields[key].lookup[val];
+                    }
+                    popupContent += '<span class="attribute"><span class="label">' + label + ':</span> ' + val + '</span>';
+                }
+            });
+            popupContent = '<div class="map-popup">' + popupContent + '</div>';
+            layer.bindPopup(popupContent, {
+                offset: L.point(1, -2)
+            });
+        }
+
+        function defineClusterIcon(cluster) {
+            var children = cluster.getAllChildMarkers(); 
+            var sum = 0;
+            for (var i = 0; i < children.length; i++) {
+                sum = sum + children[i].feature.properties.condo + children[i].feature.properties.lp + children[i].feature.properties.hdb;
+            }
+            var myClass = 'marker category-9'; // +' icon-'+iconVal;
+            var myIcon = L.divIcon({
+                className: myClass,
+                iconSize: null
+            });
+            var n = Math.round(sum), //Get number of markers in cluster
+                strokeWidth = 1, //Set clusterpie stroke width
+                r = rmax - 2 * strokeWidth - (n < 10 ? 12 : n < 100 ? 8 : n < 1000 ? 4 : 0), //Calculate clusterpie radius...
+                iconDim = (r + strokeWidth) * 2; //...and divIcon dimensions (leaflet really want to know the size)
+            var condo = 0;
+            var lp = 0;
+            var hdb = 0;
+            for (var a = 0; a < children.length; a++) {
+                condo = condo + children[a].feature.properties.condo;
+                lp = lp + children[a].feature.properties.lp;
+                hdb = hdb + children[a].feature.properties.hdb;
+            }
+            condo = Math.round(condo);
+            lp = Math.round(lp);
+            hdb = Math.round(hdb);
+            var data = [condo, lp, hdb];
+            var data1 = d3.nest() //Build a dataset for the pie chart
+                .key(function(d) {
+                    return d.feature.properties[categoryField];
+                }).entries(children, d3.map);
+            //bake some svg markup
+            if (condo + hdb + lp > 0) {
+                var html = bakeThePie({
+                        data: data,
+                        valueFunc: function(d) {
+                            return d;
+                        },
+                        strokeWidth: 1,
+                        outerRadius: r,
+                        innerRadius: r - 10,
+                        pieClass: 'cluster-pie',
+                        pieLabel: n,
+                        pieLabelClass: 'marker-cluster-pie-label',
+                        pathClassFunc: function(d) {
+                            placeholder++;
+                            placeholder = placeholder % 3;
+                            return "category-" + (placeholder + 1)
+                        },
+                        pathTitleFunc: function(d) {
+                            placeholder3++;
+                            placeholder3 = placeholder3 % 3;
+                            if (placeholder3 == 0) {
+                                return "Restaurants in this region cover " + (d.value * 100) + " people from HDB";
+                            } else if (placeholder3 == 1) {
+                                return "Restaurants in this region cover " + (d.value * 100) + " people from Condo";
+                            } else {
+                                return "Restaurants in this region cover " + (d.value * 100) + " people from Landed Property";
+                            }
+                        }
+                    }), //Create a new divIcon and assign the svg markup to the html property
+                    myIcon = new L.DivIcon({
+                        html: html,
+                        className: 'marker-cluster',
+                        iconSize: new L.Point(iconDim, iconDim)
+                    });
+            }
+            return myIcon;
+        }
+        /*function that generates a svg markup for the pie chart*/
+        function bakeThePie(options) {
+            /*data and valueFunc are required*/
+            if (!options.data || !options.valueFunc) {
+                console.log("help");
+                return '';
+            }
+            var data = options.data;
+            var valueFunc = options.valueFunc,
+                r = options.outerRadius ? options.outerRadius : 28, //Default outer radius = 28px
+                rInner = options.innerRadius ? options.innerRadius : r - 10, //Default inner radius = r-10
+                strokeWidth = options.strokeWidth ? options.strokeWidth : 1, //Default stroke is 1
+                pathClassFunc = options.pathClassFunc ? options.pathClassFunc : function() {
+                    return '';
+                }, //Class for each path
+                pathTitleFunc = options.pathTitleFunc ? options.pathTitleFunc : function() {
+                    return '';
+                }, //Title for each path
+                pieClass = options.pieClass ? options.pieClass : 'marker-cluster-pie', //Class for the whole pie
+                pieLabel = options.pieLabel ? options.pieLabel : d3.sum(data), //Label for the whole pie
+                pieLabelClass = options.pieLabelClass ? options.pieLabelClass : 'marker-cluster-pie-label', //Class for the pie label
+                origo = (r + strokeWidth), //Center coordinate
+                w = origo * 2, //width and height of the svg element
+                h = w,
+                donut = d3.layout.pie(),
+                arc = d3.svg.arc().innerRadius(rInner).outerRadius(r);
+            //Create an svg element
+            var svg = document.createElementNS(d3.ns.prefix.svg, 'svg');
+            //Create the pie chart
+            var donut = d3.layout.pie().value(valueFunc);
+            //console.log([data]);
+            var vis = d3.select(svg)
+                //.data([data])
+                .attr('class', pieClass).attr('width', w).attr('height', h);
+            //console.log(vis.selectAll('g.arc').data);
+            var arcs = vis.selectAll('g.arc')
+              .data(donut(data))
+              .enter()
+              .append('svg:g')
+              .attr('class', 'arc')
+              .attr('transform', 'translate(' + origo + ',' + origo + ')');
+            arcs.append('svg:path')
+              .attr('class', pathClassFunc)
+              .attr('stroke-width', strokeWidth)
+              .attr('d', arc)
+              .append('svg:title')
+              .text(pathTitleFunc);
+            vis.append('text')
+              .attr('x', origo)
+              .attr('y', origo)
+              .attr('class', pieLabelClass)
+              .attr('text-anchor', 'middle')
+              .attr('dy', '.3em')
+              .text(pieLabel);
+            return serializeXmlNode(svg);
+        }
+
+        /*Function for generating a legend with the same categories as in the clusterPie*/
+        function renderLegend() {
+            var data = d3.entries(metadata.fields[categoryField].lookup);
+            var data = [{
+                key: "1",
+                value: "Condo"
+            }, {
+                key: "2",
+                value: "Landed Property"
+            }, {
+                key: "3",
+                value: "HDB"
+            }, {
+                key: "9",
+                value: "No Residents in 1km"
+            }]
+            var legenddiv = d3.select('main').append('div').attr('id', 'legend');
+            var heading = legenddiv.append('div').classed('legendheading', true).text(metadata.fields[categoryField].name);
+            var legenditems = legenddiv.selectAll('.legenditem').data(data);
+            legenditems.enter().append('div').attr('class', function(d) {
+                return 'category-' + d.key;
+            }).classed({
+                'legenditem': true
+            }).text(function(d) {
+                return d.value;
+            });
+        }
+        /*Helper function*/
+        function serializeXmlNode(xmlNode) {
+            if (typeof window.XMLSerializer != "undefined") {
+                return (new window.XMLSerializer()).serializeToString(xmlNode);
+            } else if (typeof xmlNode.xml != "undefined") {
+                return xmlNode.xml;
+            }
+            return "";
+        }
+
+        (function() {
+          var control = new L.Control({position:'bottomleft'});
+          control.onAdd = function(map) {
+              var azoom = L.DomUtil.create('a','resetzoom');
+              azoom.innerHTML = "[Reset Zoom]";
+              L.DomEvent
+                .disableClickPropagation(azoom)
+                .addListener(azoom, 'click', function() {
+                  map.setView([1.3521, 103.8198], 12);
+                },azoom);
+              return azoom;
+            };
+          return control;
+        }())
+        .addTo(map);
+
+    </script>
+  </div>
+</main>
+    </div>
+</body>
+</html>
